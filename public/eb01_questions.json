@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "EB010001",
+    "title": "[EB010001] 如果依照通訊網路的架設規模與傳輸距離的遠近，可以區分為下列哪些網路型態？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "無線網路"
+      },
+      {
+        "label": "B",
+        "text": "區域網路"
+      },
+      {
+        "label": "C",
+        "text": "都會網路"
+      },
+      {
+        "label": "D",
+        "text": "廣域網路"
+      }
+    ],
+    "answer": "BCD",
+    "explanation": "依架設規模與傳輸距離，網路可區分為區域網路(LAN)、都會網路(MAN)與廣域網路(WAN)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010002",
+    "title": "[EB010002] 下列哪一項網路拓樸的優點是，如果有一台電腦出現問題時，只會影響到該電腦，不致於癱瘓整個網路。由於此種網路是屬於中樞控制架構，在擴充及管理時都頗為方便？",
+    "options": [
+      {
+        "label": "A",
+        "text": "環狀"
+      },
+      {
+        "label": "B",
+        "text": "星狀"
+      },
+      {
+        "label": "C",
+        "text": "網狀"
+      },
+      {
+        "label": "D",
+        "text": "匯流排"
+      }
+    ],
+    "answer": "B",
+    "explanation": "星狀拓樸以中央裝置為中樞控制，個別節點故障不影響其他電腦，且擴充管理方便。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010003",
+    "title": "[EB010003] 交換式連線傳輸方式是利用硬體或軟體技術來建立連線，這類的連線必須與其他人共享頻寬，但是架設成本上較為便宜。所以交換式連線又可以分為下列哪幾種？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "線路交換"
+      },
+      {
+        "label": "B",
+        "text": "頻寬交換"
+      },
+      {
+        "label": "C",
+        "text": "訊息交換"
+      },
+      {
+        "label": "D",
+        "text": "分封交換"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "交換式連線依傳輸與處理方式不同，主要可分為線路交換、訊息交換與分封交換三種。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010004",
+    "title": "[EB010004] 關於常用的網路設備，下列敘述哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "橋接器(Bridge)通常使用於星狀網路，並具備多個插孔，可用來將網路上的裝置加以連接，增加網路節點的規模， 但是所有的埠只能共享一個頻寬"
+      },
+      {
+        "label": "B",
+        "text": "路由器(Router)又稱為「路徑選擇器」，是屬於 OSI 模型網路層中運作的裝置"
+      },
+      {
+        "label": "C",
+        "text": "集線器(Hub)是在 OSI 模型的實體層與資料連接層運作，除了具備中繼器或集線器的功能外，也還有「訊框」 (Frame)過濾的功能，也就是有過濾資料封包的能力"
+      },
+      {
+        "label": "D",
+        "text": "閘道器(Gateway)可連接使用不同通訊協定間的網路，讓彼此能互相傳送與接收"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "(A)為集線器而非橋接器；(C)集線器運作於實體層且不具備訊框過濾功能，該敘述指交換器或橋接器。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010005",
+    "title": "[EB010005] OSI 參考模型的七層架構中，關於功能說明的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "網路層的主要工作是 IP 定址與路徑選擇、途徑尋找、網路管理、資料的分割重組等"
+      },
+      {
+        "label": "B",
+        "text": "傳輸層用來定義資料傳輸的方法，提供流量控制、錯誤處理以及解決封包的傳送和接收"
+      },
+      {
+        "label": "C",
+        "text": "應用層的主要工作是協調網路資料交換格式、字元轉換碼、資料的壓縮與加密，例如電傳視訊的應用"
+      },
+      {
+        "label": "D",
+        "text": "會議層的主要工作是在資料傳輸前訂定連線建立的模式(全雙工或半雙工)、資料請求與回應方式、傳輸參數的設定 等"
+      }
+    ],
+    "answer": "C",
+    "explanation": "協調網路資料交換格式、字元轉換、資料壓縮與加密是「表現層」（Presentation Layer）之功能。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010006",
+    "title": "[EB010006] 下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "選擇網際網路服務提供者(ISP)要考慮的因素有:撥接費用、業者連線撥號線路的多寡、連線情況是否夠穩定、資 料傳輸速率是否夠快、ISP 是否提供更多額外附加的服務項目等"
+      },
+      {
+        "label": "B",
+        "text": "由於採用傳統撥接回公司的專線方式，不僅費用高，而且使用網際網路傳輸資料，也無法確保通訊安全。為了避免以 上問題，在網際網路上利用 IP 技術，建立一個私有的安全網路連接方式，稱為「虛擬私有網路」(Virtual Private Network VPN)"
+      },
+      {
+        "label": "C",
+        "text": "網際網路服務提供者(Internet Service Provider ISP)所提供的就是協助用戶連上網際網路的服務"
+      },
+      {
+        "label": "D",
+        "text": "Intranet 則是為企業上、下游各相關策略聯盟企業間整合所構成的網路，需要使用防火牆管理。目前多應用於電子型 錄與電子資料交換"
+      }
+    ],
+    "answer": "D",
+    "explanation": "企業與上下游合作夥伴等策略聯盟企業間整合所構成的網路稱為 Extranet（外網），Intranet 指企業內部網路。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010007",
+    "title": "[EB010007] 下列哪一項不是電子郵件常見的收信通訊協定？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HTTP"
+      },
+      {
+        "label": "B",
+        "text": "IMAP"
+      },
+      {
+        "label": "C",
+        "text": "MAPI"
+      },
+      {
+        "label": "D",
+        "text": "SMTP"
+      }
+    ],
+    "answer": "D",
+    "explanation": "SMTP（簡單郵件傳輸協定）是用於「寄送」電子郵件的協定，而非接收郵件之協定。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010008",
+    "title": "[EB010008] 下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "網域名稱伺服器(Domain Name Server DNS)是以一組英文縮寫來代表以數字為主的IP位址"
+      },
+      {
+        "label": "B",
+        "text": "網域名稱伺服器(Domain Name Server DNS)是負責 IP 位址與網域名稱轉換工作的電腦"
+      },
+      {
+        "label": "C",
+        "text": "網域名稱伺服器(Domain Name Server DNS)的組成是屬於階層式的樹狀結構"
+      },
+      {
+        "label": "D",
+        "text": "網域名稱伺服器(Domain Name Server DNS)包含四個部分:主機名稱、機構名稱、機構類別、地區名稱"
+      }
+    ],
+    "answer": "A",
+    "explanation": "網域名稱（Domain Name）本身才是英文縮寫，DNS 是負責解析與轉換域名 and IP 位址的伺服器系統。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010009",
+    "title": "[EB010009] 下列哪一項不是雲端運算服務的類型？",
+    "options": [
+      {
+        "label": "A",
+        "text": "SaaS"
+      },
+      {
+        "label": "B",
+        "text": "CaaS"
+      },
+      {
+        "label": "C",
+        "text": "IaaS"
+      },
+      {
+        "label": "D",
+        "text": "PaaS"
+      }
+    ],
+    "answer": "B",
+    "explanation": "雲端運算的三大核心服務類型為 IaaS（基礎設施）、PaaS（平台）與 SaaS（軟體），不包含 CaaS。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010010",
+    "title": "[EB010010] 隨著網路服務(Web Service)技術逐漸成熟，預期未來電子服務運作模式將會因為網際服務將大幅改變，讓每個企業組織與商業夥伴公司內的應用系統加以整合，達到真正共享及交換資訊的便利。下列哪一個標準不包括在網路服務(Web Service)的基礎中？",
+    "options": [
+      {
+        "label": "A",
+        "text": "W3C"
+      },
+      {
+        "label": "B",
+        "text": "WSDL"
+      },
+      {
+        "label": "C",
+        "text": "UDDI"
+      },
+      {
+        "label": "D",
+        "text": "SOAP"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Web Service 的三大核心標準為 SOAP、WSDL 與 UDDI，W3C 則是制定網路標準的國際組織。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010011",
+    "title": "[EB010011] 下列哪一項不是常見的網路拓樸型態？",
+    "options": [
+      {
+        "label": "A",
+        "text": "匯流排拓樸"
+      },
+      {
+        "label": "B",
+        "text": "環狀拓樸"
+      },
+      {
+        "label": "C",
+        "text": "星狀拓樸"
+      },
+      {
+        "label": "D",
+        "text": "三角拓樸"
+      }
+    ],
+    "answer": "D",
+    "explanation": "常見的網路拓樸型態包含匯流排、環狀、星狀、網狀與樹狀拓樸，並無三角拓樸。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010012",
+    "title": "[EB010012] 下列哪一項不是分封式交換(Packet Switching)傳輸的特色？",
+    "options": [
+      {
+        "label": "A",
+        "text": "當傳輸兩端建立連線後，便維持專用狀態，無法讓其他節點使用"
+      },
+      {
+        "label": "B",
+        "text": "結合電路交換與訊息交換的一種交換方式"
+      },
+      {
+        "label": "C",
+        "text": "利用「電腦儲存」與「前導傳送」(Store and Forward)的功能來傳送資料"
+      },
+      {
+        "label": "D",
+        "text": "資料以若干「封包」傳送，且每一封包具有標頭與標尾資訊"
+      }
+    ],
+    "answer": "A",
+    "explanation": "傳輸兩端建立連線後維持專用狀態、無法讓其他節點使用的是「電路交換」傳輸之特色。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010013",
+    "title": "[EB010013] 關於 802.11 的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "802.11a 最大傳輸速率可達 54 Mbps，傳輸距離約 50 公尺"
+      },
+      {
+        "label": "B",
+        "text": "802.11b 最大傳輸速率達 11 Mbps，傳輸距離約 100 公尺"
+      },
+      {
+        "label": "C",
+        "text": "802.11g 最大傳輸速率達 54 Mbps，傳輸距離約 100 公尺"
+      },
+      {
+        "label": "D",
+        "text": "802.11n 為新一代的無線網路技術，傳輸速率達 54 Mbps"
+      }
+    ],
+    "answer": "D",
+    "explanation": "802.11n 為新型無線網路技術，其最大傳輸速率可達 300 Mbps 至 600 Mbps，而非僅 54 Mbps。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010014",
+    "title": "[EB010014] 關於 P2P 的敘述，下列哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "一種將個人電腦模擬為伺服器的技術"
+      },
+      {
+        "label": "B",
+        "text": "Point to Point 或 Peer to Peer 的簡稱"
+      },
+      {
+        "label": "C",
+        "text": "Napster 與即時通訊軟體是 P2P 技術的應用"
+      },
+      {
+        "label": "D",
+        "text": "Blog 與 Wiki 是 P2P 應用"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "(A)P2P 為對等網路技術而非模擬伺服器；(D)Blog 與 Wiki 均屬於 Web 2.0 應用，非 P2P 架構。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010015",
+    "title": "[EB010015] 關於 Web2.0 的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Web2.0 與 web1.0 不同之處在於互動性"
+      },
+      {
+        "label": "B",
+        "text": "部落格、Wikipedia、Podcast 都是 Web2.0 應用"
+      },
+      {
+        "label": "C",
+        "text": "雲端運算服務是 Web2.0 的呈現"
+      },
+      {
+        "label": "D",
+        "text": "RSS 與 AJAX 是 web2.0 的核心技術"
+      }
+    ],
+    "answer": "C",
+    "explanation": "雲端運算屬於運算資源分配與部署架構的演進，不等於 Web 2.0 所代表的社會化與互動式網路應用。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010016",
+    "title": "[EB010016] 關於雲端技術的說明下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "透過虛擬化、標準化與自動化方式，雲端架構有系統的整合軟硬體資源，透過網路提供服務"
+      },
+      {
+        "label": "B",
+        "text": "Amazon EC2 為 IaaS 的例子"
+      },
+      {
+        "label": "C",
+        "text": "Google App Engine 即是 PaaS 服務"
+      },
+      {
+        "label": "D",
+        "text": "伺服器租賃為 SaaS 所提供的服務"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "(D)伺服器租賃（提供虛擬主機或運算硬體資源）屬於 IaaS（基礎設施即服務）的範疇。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010017",
+    "title": "[EB010017] 關於 SaaS 的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可減少軟體開發成本"
+      },
+      {
+        "label": "B",
+        "text": "Salesforce.com 為 SaaS 的應用"
+      },
+      {
+        "label": "C",
+        "text": "可依租賃者需求提供客製化軟體服務"
+      },
+      {
+        "label": "D",
+        "text": "程式開發、測式、部署、執行與維護在同一整合環境中進行"
+      }
+    ],
+    "answer": "D",
+    "explanation": "提供完整的程式開發、測試、部署與維護整合環境，是 PaaS（平台即服務）的核心特色。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010018",
+    "title": "[EB010018] 關於區域網路架構，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "匯流排拓樸會透過個別纜線連接到一條主幹線上，一次只能有一台電腦傳送簡訊，而且只有目的電腦才會接收此訊 息，優點是如果要在網路中加入或移除電腦裝置都很方便，比任何網路拓樸都使用比較少的纜線；缺點是維護不易， 如果某段線路有問題，整個網路就無法使用"
+      },
+      {
+        "label": "B",
+        "text": "環狀拓樸在網路流量大時會有較好的表現，因為不管有多少裝置想要傳送資料，同樣都必須先獲得符記(Token)才 可以進行資料傳送，所以也就不至於發生「塞車」的情況，優點是網路上的每台電腦都處於平等的地位，當網路上的 任一台電腦或線路故障，其他電腦不會受到影響"
+      },
+      {
+        "label": "C",
+        "text": "星狀拓樸是每台電腦裝置都使用各自的線路連接至中央裝置，所以即使某個線路出了問題，也不至於影響到其他的線 路，但成本很高，中心節點集線器故障時，則有可能癱瘓整個網路"
+      },
+      {
+        "label": "D",
+        "text": "網狀拓樸是所有主機間都有直接專屬的連接線相連，可靠度很高，但成本太高在區域網路上不可行"
+      }
+    ],
+    "answer": "B",
+    "explanation": "環狀拓樸中任一節點或線路故障，均會造成環路中斷而影響其他電腦，並非不受影響。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010019",
+    "title": "[EB010019] 關於網路連線傳輸方式的敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "「線路交換」(Circuit Switching)一旦建立兩端間的連線後，將維持專用的狀態，不會有資料壅塞的問題。費用也 較貴，連線時間也較緩慢"
+      },
+      {
+        "label": "B",
+        "text": "「訊息交換」(Message Switching)，利用訊息帶有目的端點的位址，過程中可以選擇不同傳輸路徑，因此線路使 用率較高"
+      },
+      {
+        "label": "C",
+        "text": "「訊息交換」(Message Switching)缺點是當資料傳送到每一節點時，不會進行錯誤檢查，傳輸錯誤率較高，傳送 速度也慢，即時性較低，重新傳送機率高，較不適用於大型網路"
+      },
+      {
+        "label": "D",
+        "text": "「分封交換」(Packet Switching)是一種結合電路交換與訊息交換優點的交換方式，可確保網路可靠性，偵測網路 資訊流量，適時進行流量控制優點是節省傳送時間，可增加線路的使用率，缺點是由於封包傳送順序不一，需要花費 封包重組的成本"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "(C)訊息交換在每個節點均會進行錯誤檢查，以「儲存後傳送」方式傳輸，其敘述稱不進行檢查是錯誤的。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010020",
+    "title": "[EB010020] 關於常用網路設備的主要功能及對應到 OSI 模型方式之敘述，下列哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "橋接器(Bridge)主要的功能繼受用來將資料訊號再生的傳輸裝置，OSI 模型實體層中運作的裝置"
+      },
+      {
+        "label": "B",
+        "text": "路由器(Router)又稱「路徑選擇器」，是 OSI 模型網路層中運作的裝置。過濾網路上的資料封包，除了具備中繼 器、集線器、橋接器功能外，最只要還具有「尋徑」(Routing)的功能"
+      },
+      {
+        "label": "C",
+        "text": "閘道器(Gateway)是在 OSI 模型的實體層與資料連結層運作，「訊框」(Frame)過濾的功能，也就是有過濾資料 封包的能力"
+      },
+      {
+        "label": "D",
+        "text": "中繼器(Repeater)可連接使用不同通訊協定間的網路，讓彼此能互相傳送與接收。由於可以運作於 OSI 模型的七 個階層，可以處理不同格式的資料封包，並進行通訊協定轉換、錯誤偵測、網路路徑控制與位址轉換等"
+      }
+    ],
+    "answer": "B",
+    "explanation": "路由器運作於 OSI 網路層，主要負責尋找最佳路徑並轉送資料封包。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010021",
+    "title": "[EB010021] 無線滑鼠與筆記型電腦間的傳輸，都採用紅外線的方式。紅外線傳輸的特點，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "傳輸速率每秒基本為 115KB"
+      },
+      {
+        "label": "B",
+        "text": "最大傳輸角度為 30 度"
+      },
+      {
+        "label": "C",
+        "text": "屬於點對點全雙工傳輸"
+      },
+      {
+        "label": "D",
+        "text": "最大傳輸距離為 1 公尺"
+      }
+    ],
+    "answer": "C",
+    "explanation": "紅外線傳輸通常屬於半雙工（Half-duplex）傳輸，無法在同一時間進行雙向訊號傳送與接收。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010022",
+    "title": "[EB010022] 關於通訊協定的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "TCP「傳輸控制協定」的資料傳送是以「位元組流」來進行傳送，資料的傳送是「單向性」，位於 OSI 模型的傳輸 層，DoD 網路模型的「網路層」"
+      },
+      {
+        "label": "B",
+        "text": "TCP 在傳送資料前會先確定接收者是否存在，若存在才會開始進行資料傳送，當傳送過程中如果發生錯誤，會要求重 新進行傳送。TCP 協定可經由控制資料流量、檢測，確保資料能夠準確傳送到目的地"
+      },
+      {
+        "label": "C",
+        "text": "IP「網際網路協定」是 TCP/IP 協定中的運作核心，存在 DoD 網路模型的「網路層」(Network Layer)，也是構成 網際網路的基礎，主要負責主機間網路封包的定址與路由，並將封包從來源處安全送到目的地"
+      },
+      {
+        "label": "D",
+        "text": "UDP「使用者資料協定」(User Datagram Protocol)是一種較簡單的通訊協定，是一種非連接型的傳輸協定，有 一對多資料傳送的優點，適用於廣播式的通訊，但不會檢查資料是否正確無誤的送達到目的地"
+      }
+    ],
+    "answer": "A",
+    "explanation": "TCP 傳輸為「雙向全雙工」而非單向性，且在 DoD 網路模型中屬於「傳輸層」而非網路層。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010023",
+    "title": "[EB010023] 關於電子郵件的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "POP3 Mail 是傳統的電子郵件信箱，必須使用專用的郵件收發軟體，才可以收發郵件，收信時會將伺服器上的郵件下 載至在使用者的電腦"
+      },
+      {
+        "label": "B",
+        "text": "Web Mail 採用 POP3 通訊協定，收信時下載郵件寄件人和標題，使用者打開信件時會把完整的郵件內容傳送進來"
+      },
+      {
+        "label": "C",
+        "text": "一般電子郵件寄信時採用 SMTP(Simple Mail Transfer Protocol)通訊協定來處理郵件"
+      },
+      {
+        "label": "D",
+        "text": "Web-Based 電子郵件信箱，郵件擺在遠端點電腦主機上集中管理，要閱讀信件一定要先上網，信件容量大小會有所 限制，使用者必須定期手動方式刪除郵件、轉寄郵件來加以備份"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Web Mail 主要是透過 HTTP/HTTPS 在瀏覽器閱讀郵件；而下載標題、打開時才下載全文是 IMAP 的特徵。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010024",
+    "title": "[EB010024] 關於資訊科技界的定律，下列哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "「摩爾定律」是指每隔 18 個月，晶片的密度(也就等同運算能力)，在價格不變的情況下，會呈現加倍的情況。也 就是 IT 產品在極快的速度下變得「更快、更小、更便宜」，造成「電腦的普及運用」"
+      },
+      {
+        "label": "B",
+        "text": "「梅特卡夫定律」是一個關於網絡的價值和網絡技術的發展的定律，網路的效用性會與使用者數目(n)的平方成正 比，也就是 IT 只有在使用者人數眾多的情況下才有價值"
+      },
+      {
+        "label": "C",
+        "text": "「吉爾德定律」是指每 10 年，資訊科技平台都會有一個典範轉移的大突破，且新一代的電腦平台所使用的科技，亦 將有突破性、更好的效能，因此其儲存設備、網路、介面都不一樣，其效能、價格都勝過上一代 10 倍以上"
+      },
+      {
+        "label": "D",
+        "text": "「貝爾定律」是網路通訊系統的頻寬會以每 12 個月進步 3 倍的速度成長，而消費者每個 bit 的變動通訊成本會逐漸 趨向零"
+      }
+    ],
+    "answer": "CD",
+    "explanation": "(C)描述為貝爾定律而非吉爾德定律；(D)描述為吉爾德定律（頻寬成長）而非貝爾定律。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010025",
+    "title": "[EB010025] 針對 Web1.0 與 Web2.0 的特色比較，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "Web 1.0 主要是 B2B 與 B2C 的交易支援網路，網站經營模式與目的以營利為目的"
+      },
+      {
+        "label": "B",
+        "text": "Web2.0 是 P2P 分散式的管理架構，不論是部落格(Blog)、維基(Wiki)、社群網站(Social Network Site)都 是由使用者主導來創造、協同合作、分享各種資訊與內容的一個分散式的網路現象，公司只提供一個平台"
+      },
+      {
+        "label": "C",
+        "text": "利用搜尋引擎找資料或上網看網路新聞都是屬於 Web 1.0 的應用"
+      },
+      {
+        "label": "D",
+        "text": "長尾理論是因為 Web2.0 的崛起，使得那些品項數量極大的冷門產品或利基產品，個別銷售量極小，但總量巨大，累 積起來的總收益對企業產生很大的貢獻，在企業的營收統計分配圖上，構成一條又細又長的 L 型曲線"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "(D)長尾理論在營收統計分配圖上所構成的是一條有細長尾巴的冪律（Power Law）曲線，非L型。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010026",
+    "title": "[EB010026] 關於微網誌的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "微網誌是一種兼具交友及聊生活點滴或傳送相關訊息的網站，允許使用者及時更新簡短文字"
+      },
+      {
+        "label": "B",
+        "text": "推特(Twitter)被形容為「網際網路的簡訊服務」，網站的非註冊使用者可以閱讀公開的推文，而註冊使用者則可以 通過 Twitter 網站、簡訊或者各種各樣的應用軟體來發布訊息"
+      },
+      {
+        "label": "C",
+        "text": "噗浪(Plurk)是個類似 Twitter 的「時間流」網站，每個發言不能超過 140 字，而所有的訊息都會展示在網站中間的 那條「時間流」河道，這些河道上的訊息，相當開放，任何人都可以輕易看到其他噗友的留言"
+      },
+      {
+        "label": "D",
+        "text": "噗浪中有一種「Karma」值，會依照你發文的次數、上站次數與交友情形變大或變小，在 Plurk 網站中的各項進階功 能都需要「Karma」數值到達一定程度才可開放修改，大家為了可以擁有更高「Karma」值，就可以將聊天當作在玩 遊戲一樣有趣"
+      }
+    ],
+    "answer": "C",
+    "explanation": "噗浪的時間軸（河道）與訊息權限可設定為私密或僅限好友，並非任何人都能輕易看到所有留言。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010027",
+    "title": "[EB010027]關於雲端運算的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "雲端運算是一種技術，其基本元素包括「使用者與提供者」、「網際網路」、「隨選運算」、「IT 資訊、平台、應用 系統提供」、以及「服務模式」"
+      },
+      {
+        "label": "B",
+        "text": "「基礎設施即服務」Infrastructure as a service(IaaS)指提供硬體資源給客戶，包括:運算、儲存、網路、…等等 資源，讓沒有能力採購與管理這些設備的使用者可以「用多付少」的方式來使用"
+      },
+      {
+        "label": "C",
+        "text": "由雲端服務提供商來負責開發與管理各種應用系統，再由使用者自己隨選公用計價的方式來租賃，例如 Google mail 或是 Salesforce.com 的 CRM，就是「軟體即服務」Software as a service(SaaS)的應用"
+      },
+      {
+        "label": "D",
+        "text": "由 Yahoo、Amazon.com 等雲端供應商提供各種行銷、銷售與客服的功能來讓中小企業在其平台上任意組合功能來 自己「開店」，並收取佣金是「平台即服務」Platform as a service(PaaS)的應用"
+      }
+    ],
+    "answer": "A",
+    "explanation": "雲端運算不僅是一項技術，更是一種基於網路提供隨選服務的「運算模式」與商業服務架構。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010028",
+    "title": "[EB010028] 關於 TCP/IP 協定的組成，下列哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "TCP、IP、HUB、Repeater、Gateway、Router"
+      },
+      {
+        "label": "B",
+        "text": "TCP、IP、ASP、JSP、PHP、HTML、CSS"
+      },
+      {
+        "label": "C",
+        "text": "TCP、IP、FTP、SMTP、DNS、Telnet"
+      },
+      {
+        "label": "D",
+        "text": "TCP、IP、WWW、POP、UDP、Router"
+      }
+    ],
+    "answer": "C",
+    "explanation": "TCP/IP 協定套組包含傳輸層的 TCP、網路層的 IP，以及應用層的 FTP、SMTP、DNS、Telnet 等協定。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010029",
+    "title": "[EB010029] 網路傳輸媒介包含下列哪些連結線路？",
+    "options": [
+      {
+        "label": "A",
+        "text": "雙絞線、光纖、同軸電纜、無線電波"
+      },
+      {
+        "label": "B",
+        "text": "電線、延長線"
+      },
+      {
+        "label": "C",
+        "text": "E-mail、RSS、P2P、Proxy"
+      },
+      {
+        "label": "D",
+        "text": "HUB、Repeater、Bridge、Gateway"
+      }
+    ],
+    "answer": "A",
+    "explanation": "雙絞線、同軸電纜與光纖為有線傳輸媒介，無線電波則為無線傳輸媒介。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010030",
+    "title": "[EB010030] 因應 IP 位址不足，目前政府機關與企業都應該規劃轉換為下列哪一種網際網路通訊協定(Internet Protocol version)，以符合未來需求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "IPv4"
+      },
+      {
+        "label": "B",
+        "text": "IPv5"
+      },
+      {
+        "label": "C",
+        "text": "IPv6"
+      },
+      {
+        "label": "D",
+        "text": "IPvA"
+      }
+    ],
+    "answer": "C",
+    "explanation": "IPv6 採用 128 位元定址，可提供極為龐大的 IP 位址空間，能徹底解決 IPv4 位址不足的問題。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010031",
+    "title": "[EB010031] 下列哪一個不是常用的實體網路設備？",
+    "options": [
+      {
+        "label": "A",
+        "text": "瀏覽器(Browser)"
+      },
+      {
+        "label": "B",
+        "text": "集線器(Hub)"
+      },
+      {
+        "label": "C",
+        "text": "交換式集線器(Switch Hub)"
+      },
+      {
+        "label": "D",
+        "text": "閘道器(Gateway)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "瀏覽器（Browser）是屬於用來瀏覽網頁的「軟體」應用程式，而非實體的網路硬體設備。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010032",
+    "title": "[EB010032] DNS 網域名稱系統(Domain Name System)裡可以設定下列哪些紀錄功能？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "A 紀錄"
+      },
+      {
+        "label": "B",
+        "text": "CNAME 紀錄"
+      },
+      {
+        "label": "C",
+        "text": "MX 紀錄"
+      },
+      {
+        "label": "D",
+        "text": "B 紀錄"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "DNS 的常用記錄類型包含 A 記錄（IP 定址）、CNAME（別名記錄）與 MX（郵件交換記錄），無 B 記錄。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010033",
+    "title": "[EB010033] 在行動裝置上，經常利用到下列哪一種二維條碼進行掃描導引行銷？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HTML Code"
+      },
+      {
+        "label": "B",
+        "text": "QR Code"
+      },
+      {
+        "label": "C",
+        "text": "CSS Code"
+      },
+      {
+        "label": "D",
+        "text": "JavaScript Code"
+      }
+    ],
+    "answer": "B",
+    "explanation": "QR Code 是行動裝置最常用來進行掃描、讀取網址並導引至行銷頁面的二維條碼。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010034",
+    "title": "[EB010034] 電子郵件(E-mail)使用下列哪兩種收信的通訊協定？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "POP3"
+      },
+      {
+        "label": "B",
+        "text": "SMTP"
+      },
+      {
+        "label": "C",
+        "text": "Outlook"
+      },
+      {
+        "label": "D",
+        "text": "IMAP"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "電子郵件的收信協定包含 POP3（郵件下載至本地）與 IMAP（郵件保留在伺服器），SMTP 則為發信協定。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010035",
+    "title": "[EB010035] 網頁設計師製作好網頁之後，常使用下列哪種網路協定與服務，上傳資料到網站伺服器空間？",
+    "options": [
+      {
+        "label": "A",
+        "text": "BBS 電子佈告欄(Bulletin Board System)"
+      },
+      {
+        "label": "B",
+        "text": "IM 即時通訊(Instant Messaging)"
+      },
+      {
+        "label": "C",
+        "text": "VoIP 網路電話(Voice over Protocol)"
+      },
+      {
+        "label": "D",
+        "text": "FTP 檔案傳輸協定(File Transfer Protocol)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "FTP（檔案傳輸協定）是專門用於在用戶端與伺服器之間傳輸與上傳檔案的網路協定。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010036",
+    "title": "[EB010036] 若您進入一間新公司擔任資訊人員，想要知道公司網域名稱(Domain Name)的相關資訊，例如註冊者、域名到期日、註冊機構…等，可以使用域名機構提供的哪一種服務進行查詢？",
+    "options": [
+      {
+        "label": "A",
+        "text": "RSS"
+      },
+      {
+        "label": "B",
+        "text": "IPv4"
+      },
+      {
+        "label": "C",
+        "text": "IPv6"
+      },
+      {
+        "label": "D",
+        "text": "WHOIS"
+      }
+    ],
+    "answer": "D",
+    "explanation": "WHOIS 是一種用於查詢網域名稱註冊人、註冊機構、註冊日期與到期日等相關資訊的資料庫服務。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010037",
+    "title": "[EB010037] 關於 Web 2.0 與 Web 3.0 世代的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "使用者可以積極參與內容的提供"
+      },
+      {
+        "label": "B",
+        "text": "網站內容由網站經營者提供，使用者只能下載、瀏覽與查詢"
+      },
+      {
+        "label": "C",
+        "text": "人工智慧技術的運用，自動分享整合各網頁資訊"
+      },
+      {
+        "label": "D",
+        "text": "部落格(Blog)、RSS(Really Simple Syndication)技術的運用"
+      }
+    ],
+    "answer": "B",
+    "explanation": "網站內容僅由經營者單向提供、使用者只能瀏覽與下載是 Web 1.0 的特色，而非 Web 2.0/3.0。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010038",
+    "title": "[EB010038] 關於無線通訊技術的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "3G 時代開始有了智慧型手機的使用，無線通訊與網路多媒體等通訊結合，將圖像、音樂、網頁瀏覽等多項功能服務 提升，可以收發多媒體簡訊"
+      },
+      {
+        "label": "B",
+        "text": "4G 可以看 FHD(Full High Definition)全高清影片，一般能達到解析度 1920 x 1080"
+      },
+      {
+        "label": "C",
+        "text": "5G 可以看 4K 影片，解析度達到 3840 x 2160"
+      },
+      {
+        "label": "D",
+        "text": "5G 的通訊理論速度可達每秒 10GB，比起 4G 通訊，5G 的速度能達到 4G 的 1000 倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "5G 理論速率最高可達 20 Gbps，約為 4G（理論最高 1 Gbps）的 20 倍，而非 1000 倍。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010039",
+    "title": "[EB010039] DoD 參考模型(Department of Defense Model)的四個分工層次，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "實體層:主要工作是與硬體的溝通，例如將資料傳輸到實體網路，或者將收到的資料往上層傳送"
+      },
+      {
+        "label": "B",
+        "text": "應用層:主要的功用是提供使用者應用程式介面，如 HTTP、FTP、SMTP 等通訊協定"
+      },
+      {
+        "label": "C",
+        "text": "網際層:又稱網際網路層，主要的功用是負責路徑選擇、主機定址、位圵解析等工作，如 IP 位址的決定"
+      },
+      {
+        "label": "D",
+        "text": "傳輸層:主要的功能是負責資料連線時的流量控制、分段，重組與偵測等工作，如 TCP、UDP"
+      }
+    ],
+    "answer": "BCD",
+    "explanation": "(A)DoD 參考模型的最底層稱為「網路存取層」（Network Access Layer），而非實體層。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010040",
+    "title": "[EB010040] 關於無線通訊 Wi-Fi、藍牙(Bluetooth)與 ZigBee 的比較，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "發展順序為Wi-Fi → 藍牙 → ZigBee"
+      },
+      {
+        "label": "B",
+        "text": "安全性為Wi-Fi＞藍牙＞ZigBee"
+      },
+      {
+        "label": "C",
+        "text": "成本為Wi-Fi＞藍牙＞ZigBee"
+      },
+      {
+        "label": "D",
+        "text": "Wi-Fi 作為一般無線網路的基礎，適合用於建構家庭無線網路、辦公室無線網路；藍牙則聚焦於電腦設備及週邊連接 如私人穿戴、影音領域；ZigBee 的重點在於自動化設備、無線感應裝置、遠端搖控設備"
+      }
+    ],
+    "answer": "B",
+    "explanation": "三者在不同應用情境各有其安全機制與加密協定，並非 Wi-Fi 的安全性必定高於藍牙及 ZigBee。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010041",
+    "title": "[EB010041] 關於網際網路的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "網路的價值或力量和網路上的用戶數成指數關係，被稱之為梅特卡夫法則，也就是網路用戶數愈多，網路的價值成長 的速度就更快"
+      },
+      {
+        "label": "B",
+        "text": "吉爾德定律指出通訊網路系統的頻寬會以每 12 個月進步 3 倍的速度成長，且消費者每 bit 的變動成本會逐漸趨向零"
+      },
+      {
+        "label": "C",
+        "text": "網際網路採用封包交換技術，只能將訊息分割成好幾個同樣大小的封包，每個封包皆有註記寄送端位址、接收端位址 等相關資訊，可透過任何可用的通訊網路送達到同一個接收端，使得網路的運用變得非常有彈性"
+      },
+      {
+        "label": "D",
+        "text": "網際網路的世界其實就是由無以數計的伺服器和終端使用者的電腦設施所組成，形成一個龐大的主從式運算網路"
+      }
+    ],
+    "answer": "C",
+    "explanation": "封包交換技術分割的封包大小並不一定需要完全「同樣大小」，通常是在最大傳輸單元(MTU)限制下彈性調整。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010042",
+    "title": "[EB010042] 關於 TCP/IP 通訊協定四層架構敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "由上而下為應用層 → 傳輸層 → 網路層 → 實體網路存取層"
+      },
+      {
+        "label": "B",
+        "text": "應用層負責應用程式間溝通的協定，如簡易電子郵件傳送(SMTP Simple Mail Transfer Protocol)、檔案傳輸協定 (FTP File Transfer Protocol)、網路終端機模擬協定(TELNET)等"
+      },
+      {
+        "label": "C",
+        "text": "傳輸層提供應用層所需的通訊及封包服務，如傳輸控制協定(TCP Transmission Control Protocol)、使用者資料協 定(UDP User Datagram Protocol)等，負責傳送資料，並且確定資料已被送達並接收"
+      },
+      {
+        "label": "D",
+        "text": "實體網路存取層負責決定傳送位址及路線，讓每一塊資料封包，都能夠到達目的端主機(但不檢查是否被正確接 收)，如網際協定(IP Internet Protocol)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "負責決定傳送位址與路徑、讓資料包能到達目的地主機的是「網路層」（或網際層），而非實體網路存取層。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010043",
+    "title": "[EB010043] 關於 5G 行動通訊技術標準，下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "5G 的特色是高傳輸、低延遲、低耗源、高成本"
+      },
+      {
+        "label": "B",
+        "text": "5G 的頻段與頻率都較 4G 為高"
+      },
+      {
+        "label": "C",
+        "text": "5G 基地台有兩種架構，一種為大型天線基地台，一為低軌道非同步衛星"
+      },
+      {
+        "label": "D",
+        "text": "5G 是一種蜂巢行動通訊技術"
+      }
+    ],
+    "answer": "A",
+    "explanation": "5G 技術的核心特性為高速率(大頻寬)、低延遲與大連結(多裝置)，不包含「高成本」作為其技術規格特色。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010044",
+    "title": "[EB010044] 關於 iBeacon 的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可以提供室內定位服務"
+      },
+      {
+        "label": "B",
+        "text": "傳輸距離較 NFC 為短"
+      },
+      {
+        "label": "C",
+        "text": "由 APPLE 公司所提出"
+      },
+      {
+        "label": "D",
+        "text": "以藍牙作為通訊協定"
+      }
+    ],
+    "answer": "B",
+    "explanation": "iBeacon 的傳輸距離約可達數十公尺，而 NFC 的傳輸距離僅限於數公分內，因此 iBeacon 傳輸距離較 NFC 長。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010045",
+    "title": "[EB010045] 下列哪個是車上 e-tag 使用的感測技術？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ZigBee"
+      },
+      {
+        "label": "B",
+        "text": "Bluetooth"
+      },
+      {
+        "label": "C",
+        "text": "被動式 RFID"
+      },
+      {
+        "label": "D",
+        "text": "主動式 RFID"
+      }
+    ],
+    "answer": "C",
+    "explanation": "車上 e-Tag 是利用車輛經過收費門架時，接收門架發射的微波能量來運作，屬於「被動式 RFID」技術。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010046",
+    "title": "[EB010046] 可以根據使用者的位置提供附近商品建議的 APP，是屬於下列哪一種服務？",
+    "options": [
+      {
+        "label": "A",
+        "text": "適地性服務(Location-Based Service LBS)"
+      },
+      {
+        "label": "B",
+        "text": "行動搜尋(Mobile Search)"
+      },
+      {
+        "label": "C",
+        "text": "行動商務(Mobile Commerce)"
+      },
+      {
+        "label": "D",
+        "text": "行動廣告(Mobile Advertising)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "LBS（位置服務/適地性服務）是透過行動裝置的定位技術，提供使用者所在位置相關資訊與建議的服務。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010047",
+    "title": "[EB010047] HTML5 是 W3C 所制定的最新超文件標籤語言的標準，關於 HTML5 的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HTML5 包含 HTML、CSS 和 JavaScript 技術之組合"
+      },
+      {
+        "label": "B",
+        "text": "HTML5 目的為減少網頁瀏覽器使用外掛程式的網路應用服務的需求"
+      },
+      {
+        "label": "C",
+        "text": "HTML5 透過 Cookie 提供了不同的離線儲存功能"
+      },
+      {
+        "label": "D",
+        "text": "HTML5 新增＜video＞、＜audio＞、＜canvas＞標籤，以處理多媒體內容"
+      }
+    ],
+    "answer": "C",
+    "explanation": "HTML5 是透過 Web Storage（如 LocalStorage 和 SessionStorage）及 IndexedDB 提供本地儲存，而非 Cookie。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010048",
+    "title": "[EB010048] 關於於 Web Service 的敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "Web Services 是一種軟體元件，透過 Web 通訊協定及資料格式的開放式標準來為其他的應用程式提供服務"
+      },
+      {
+        "label": "B",
+        "text": "WSDL 簡易物件存取協定，用以定義在 HTTP 協定上的存取遠端物件方法"
+      },
+      {
+        "label": "C",
+        "text": "UDDI 是統一描述搜尋與整合，是 Web Service 的註冊與搜尋機制"
+      },
+      {
+        "label": "D",
+        "text": "SOAP 是服務描述語言，描述 Web Service 所提供功能與定義出介面、存取方式及位置"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "(B)WSDL 應為網路服務描述語言，SOAP 才是簡單物件存取協定；(D)SOAP 與 WSDL 說明互換了。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010049",
+    "title": "[EB010049] 服務導向架構(SOA)已成為現今軟體發展的重要技術，關於 SOA 的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "SOA 的組成元件是由許多分散在網路上的系統組合而來"
+      },
+      {
+        "label": "B",
+        "text": "SOA 以介面標準來組合系統，因此大幅降低系統變更的彈性度"
+      },
+      {
+        "label": "C",
+        "text": "SOA 著重標準與互動性，將可避免不同平台開發程式間相互整合的困擾"
+      },
+      {
+        "label": "D",
+        "text": "SOA 不受限於特定廠商的產品功能或是平台，能達到系統設計的開放性"
+      }
+    ],
+    "answer": "B",
+    "explanation": "SOA 使用標準介面封裝服務，能提高（而非降低）系統重用性與變更的彈性。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010050",
+    "title": "[EB010050] 常見物聯網的應用包含下列哪些？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "遠程監控"
+      },
+      {
+        "label": "B",
+        "text": "投資理財"
+      },
+      {
+        "label": "C",
+        "text": "智慧家電"
+      },
+      {
+        "label": "D",
+        "text": "穿戴裝置應用"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "物聯網(IoT)是將實體裝置連接至網路進行資料交換，常見應用如智慧家電、穿戴式裝置及遠端監控，不包含投資理財。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010051",
+    "title": "[EB010051] 下列 CSS 語法哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "h1 {color:blue}"
+      },
+      {
+        "label": "B",
+        "text": "$a {color:blue}"
+      },
+      {
+        "label": "C",
+        "text": ".temp {color:blue}"
+      },
+      {
+        "label": "D",
+        "text": "#button {color:blue}"
+      }
+    ],
+    "answer": "B",
+    "explanation": "CSS選擇器中沒有$開頭的語法，$不是合法的CSS選擇器前綴。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010052",
+    "title": "[EB010052] 下列哪一項不是合適的網域名稱？",
+    "options": [
+      {
+        "label": "A",
+        "text": ".org"
+      },
+      {
+        "label": "B",
+        "text": ".com"
+      },
+      {
+        "label": "C",
+        "text": ".gov"
+      },
+      {
+        "label": "D",
+        "text": ".corp"
+      }
+    ],
+    "answer": "D",
+    "explanation": ".corp不是網際網路名稱與數字地址分配機構(ICANN)定義的通用頂級網域名稱。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010053",
+    "title": "[EB010053] 下列哪一項不是服務導向架構(SOA)的特性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "無須設定"
+      },
+      {
+        "label": "B",
+        "text": "模組化元件"
+      },
+      {
+        "label": "C",
+        "text": "跨平台"
+      },
+      {
+        "label": "D",
+        "text": "系統整合容易"
+      }
+    ],
+    "answer": "A",
+    "explanation": "服務導向架構(SOA)仍需要進行相關的服務定義與配置，並非無須設定。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010054",
+    "title": "[EB010054] 第五代行動通訊技術(5G)的基地台可使用下列哪幾種架構進行佈署？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "在人口稀少的郊區，適合佈署採用 GSM 通訊系統，進行無線電波傳送技術"
+      },
+      {
+        "label": "B",
+        "text": "在人口稠密的都市，可使用在建築物頂端架設大型天線，地面基地台之間以光纖串起網路的方式佈署"
+      },
+      {
+        "label": "C",
+        "text": "一律採用有線區域網路(LAN)的雙絞線方式進行部署"
+      },
+      {
+        "label": "D",
+        "text": "土地廣大但人口分散的地區，適合採用低軌道非同步衛星做基地台系統部署"
+      }
+    ],
+    "answer": "BD",
+    "explanation": "5G在都市可透過大型天線與光纖骨幹部署，偏遠廣大地區則可搭配低軌道衛星。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010055",
+    "title": "[EB010055] 關於物聯網技術的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "讓所有獨立的個體，像是汽車、家電等，人員只能在現場進行近端控制"
+      },
+      {
+        "label": "B",
+        "text": "英語:Internet of Things，簡稱 IoT"
+      },
+      {
+        "label": "C",
+        "text": "使用者可以使用行動裝置或電腦設備遠端遙控或是接收數據進行分析"
+      },
+      {
+        "label": "D",
+        "text": "使用智慧型手機，在到家前先行開好冷氣、在外就能監視家中的攝影機、查詢公車所在位置與幾分鐘內到站，都是屬 於物聯網技術的運用"
+      }
+    ],
+    "answer": "A",
+    "explanation": "物聯網的核心特徵是能夠透過網路實現遠端監控，而非只能在現場進行近端控制。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010056",
+    "title": "[EB010056] 關於網路拓樸(Topology)的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "網路連線後的外觀"
+      },
+      {
+        "label": "B",
+        "text": "網路連線實體或邏輯排列形狀"
+      },
+      {
+        "label": "C",
+        "text": "常見的網路拓樸有三角形(Triangle)拓樸、正方形(Square)拓樸、球狀(Spherical)拓樸"
+      },
+      {
+        "label": "D",
+        "text": "網路的佈線方式"
+      }
+    ],
+    "answer": "C",
+    "explanation": "常見的網路拓樸包含星狀、環狀、匯流排狀等，不包含三角形或正方形拓樸。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010057",
+    "title": "[EB010057] 關於網路傳輸媒介的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "網路所使用的連線媒介可以分成「引導式媒介」與「非引導式媒介」兩種"
+      },
+      {
+        "label": "B",
+        "text": "雙絞線是最常見的網路傳輸線材"
+      },
+      {
+        "label": "C",
+        "text": "一般有線電視用來傳送訊號的線材是使用同軸電纜"
+      },
+      {
+        "label": "D",
+        "text": "「非引導式媒介」指的是使用實體線路就可傳送訊號或資料"
+      }
+    ],
+    "answer": "D",
+    "explanation": "非引導式媒介指的是無線傳輸媒介(如微波、紅外線)，不需使用實體線路傳送。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010058",
+    "title": "[EB010058] 關於 APP(行動應用程式)的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "APP 就是 application 的縮寫"
+      },
+      {
+        "label": "B",
+        "text": "APP 通常是安裝在桌上型電腦或筆記型電腦裡的應用程式"
+      },
+      {
+        "label": "C",
+        "text": "iOS(iPhone)上安裝 APP，主要需由 App Store 進行安裝更新"
+      },
+      {
+        "label": "D",
+        "text": "Android 上安裝 APP，主要需由 Google Play 商店(舊稱為Android Market)進行安裝更新"
+      }
+    ],
+    "answer": "B",
+    "explanation": "APP(行動應用程式)主要是設計並安裝在智慧型手機或平板等行動裝置上的程式。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010059",
+    "title": "[EB010059] 關於 HTML(超文字標記語言)的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HTML5 是包含 HTML、JavaScript、CSS 在內的技術組合"
+      },
+      {
+        "label": "B",
+        "text": "HTML5 增加了 <video>、<audio>、<canvas>…等新標籤"
+      },
+      {
+        "label": "C",
+        "text": "HTML 是由 ITU(International Telecommunication Union)國際電信聯盟所制訂及更新的網頁編輯語言"
+      },
+      {
+        "label": "D",
+        "text": "在 <body> 和 </body> 之間，輸入有關網頁畫面內容的語法文字"
+      }
+    ],
+    "answer": "C",
+    "explanation": "HTML是由全球資訊網協會(W3C)所制訂與更新的網頁標記語言，而非電信聯盟(ITU)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB010060",
+    "title": "[EB010060] 關於 CSS(Cascading Style Sheets)的敘述，下列哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "中文常翻譯成階層式樣式表或串接樣式表"
+      },
+      {
+        "label": "B",
+        "text": "CSS 不能單獨使用，必須與 HTML 一起協同工作"
+      },
+      {
+        "label": "C",
+        "text": "CSS 不能用來美化網頁版面與控制網頁外觀格式"
+      },
+      {
+        "label": "D",
+        "text": "無法讓其他網頁套用相同的 CSS"
+      }
+    ],
+    "answer": "CD",
+    "explanation": "CSS的主要功能是用來美化網頁控制外觀，且同一個CSS檔案可供不同網頁套用。",
+    "imageUrl": ""
+  }
+]

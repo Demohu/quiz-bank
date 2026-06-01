@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+.node/
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+
+# Cloudflare & Wrangler local files
+.wrangler/
+wrangler.json
+
+# Environment variables & secrets (Security)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+deploy.py
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Project backups / private PDFs
+index_backup.html
+temp_user_data/
+vite_version_archive/
+題庫隨機版_PDF/
+*.pdf
+logo.jpg
+manifest.json
+public/logo.jpg
+public/manifest.json

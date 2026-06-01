@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "EB030001",
+    "title": "[EB030001] 鼎新電腦認為企業在導入 ERP 系統時有三種不同的導入模式，下列敘述哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "快速導入:即導入企業將現有的系統全面淘汰，直接改用全新的 ERP 系統來連接全部的事業部門或相關部門，待其系 統運作順暢後，再進行全面性的導入，如此將可以降低失敗的風險"
+      },
+      {
+        "label": "B",
+        "text": "全面性導入:採用由一個事業單位或是功能部門，將所需要的功能模組作一次性的導入。導入的眼光只侷限在單一模 組，未來如果需要整合其他模組，就會面臨到重新規劃的風險成本"
+      },
+      {
+        "label": "C",
+        "text": "漸進式導入:企業依據當前的管理或作業需求，先導入 ERP 系統的部分模組，將來有需要時再進行其他功能模組的導 入，也可以分散成本與風險"
+      },
+      {
+        "label": "D",
+        "text": "快速導入模式存在缺乏整體規劃的風險，因為單一模組的導入缺乏與其他部門作整體的協調，導入的眼光只侷限在單 一模組，未來如果需要整合其他模組，就會面臨到重新規劃的風險成本"
+      }
+    ],
+    "answer": "D",
+    "explanation": "快速導入因偏重單一模組的導入以滿足當前需求，易缺乏整體規劃，日後整合其他模組時重組風險較高。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030002",
+    "title": "[EB030002] 導致長鞭效應現象之因素主要包括需求預測及下列哪些？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "前置時間"
+      },
+      {
+        "label": "B",
+        "text": "批次訂購"
+      },
+      {
+        "label": "C",
+        "text": "價格波動"
+      },
+      {
+        "label": "D",
+        "text": "需求短缺之預期心理"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "長鞭效應四大主因為需求預測、批次訂貨、價格波動及短缺博弈，本題官方答案為(ABC)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030003",
+    "title": "[EB030003] 關於供應鏈策略分成三大類型:推式供應鏈、拉式供應鏈、混合式供應鏈－推拉式供應鏈，下列敘述哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "拉式供應鏈容易發生長鞭效應的現象，需要大量安全存貨而導致超額的存貨現象，常常需要比較大量而且變化的生產 需求，服務水準會降低，常發生過時的產品還存在庫存中"
+      },
+      {
+        "label": "B",
+        "text": "推式供應鏈的優點在於有計畫的為所預測的需求量提供最低成本，最有效率的產出，而且可以用已生產的產品即時提 供給市場來創造利潤"
+      },
+      {
+        "label": "C",
+        "text": "推拉式供應鏈的缺點則是當市場需求不如預期時，生產及庫存的產品愈多，存貨損失的風險就愈大"
+      },
+      {
+        "label": "D",
+        "text": "推式供應鏈的優點在於為顧客提供量身訂製的產品與服務，缺點則是客製化的成本較高"
+      }
+    ],
+    "answer": "B",
+    "explanation": "推式供應鏈是依據預測生產，能有計劃地降低生產成本並提高效率，並以成品即時供應市場需求。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030004",
+    "title": "[EB030004] 供應鏈策略的比較，下列敘述哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "推式供應鏈易產生長鞭效應，而拉式及推拉式供應鏈則不易產生長鞭效應"
+      },
+      {
+        "label": "B",
+        "text": "拉式供應鏈是以預測做為生產和配送決策之驅動，而推式供應鏈則以需求做為生產和配送決策之驅動"
+      },
+      {
+        "label": "C",
+        "text": "以適合之市場特性而言，推式供應鏈適合需求變動小的市場，拉式供應鏈則是適合需求變動大的市場"
+      },
+      {
+        "label": "D",
+        "text": "拉式供應鏈的庫存量多、生產效率高，推式供應鏈的庫存量少、生產效率低"
+      }
+    ],
+    "answer": "BD",
+    "explanation": "拉式是以實際需求驅動且庫存較少；推式是以預測驅動且庫存較多，選項(B)與(D)之描述均與事實相反。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030005",
+    "title": "[EB030005] 關於供應鏈的配送策略，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "供應鏈的配送策略為:直接配送、倉儲、越庫作業、轉運"
+      },
+      {
+        "label": "B",
+        "text": "直接配送及轉運不需要物流中心(倉儲)的需求"
+      },
+      {
+        "label": "C",
+        "text": "越庫作業適用大型零售產業的商品配銷，倉儲適用於無法長期儲存的商品，如生鮮產品"
+      },
+      {
+        "label": "D",
+        "text": "直接配送的缺貨風險高，倉儲及越庫作業的缺貨風險低"
+      }
+    ],
+    "answer": "C",
+    "explanation": "生鮮產品因具易腐性不適合長期儲存於倉庫，應採用越庫作業（Cross-docking）以快速轉運配送。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030006",
+    "title": "[EB030006] 供應鏈管理(SCM)與企業資源規劃(ERP)之比較，下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "以支援範圍做比較，SCM 是跨組織的供應鏈流程，ERP 是組織內部的價值鏈流程"
+      },
+      {
+        "label": "B",
+        "text": "以運作焦點做比較，ERP 著重內部價值提升，SCM著重跨組織價值提升"
+      },
+      {
+        "label": "C",
+        "text": "以實施期程做比較，SCM 的時間較長(18-48 個月)，ERP 則時間較短(12-16 個月)"
+      },
+      {
+        "label": "D",
+        "text": "以實施層級做比較，ERP 著重作業面，SCM 著重營運規劃面"
+      }
+    ],
+    "answer": "C",
+    "explanation": "ERP涉及企業內部的全功能整合，導入難度高，其時程通常比針對特定外部流程的SCM系統更長。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030007",
+    "title": "[EB030007] META Group 將協同商務分為四大功能，下列敘述哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "規劃 / 預測協同:利用網際網路讓製造商與客戶間分享設計圖或共同進行設計，其合作關係可以只是簡單的樣本傳 送，也可以是透過協同工具來追蹤、管理整個協同工作之流程"
+      },
+      {
+        "label": "B",
+        "text": "設計協同商務:指批發商、配銷商等通路夥伴之間利用網際網路進行彼此之間的資訊分享，甚至是訂單、價格、品牌 管理等流程的共用"
+      },
+      {
+        "label": "C",
+        "text": "採購協同商務:指利用網際網路讓多個買主結合起來，形成較大的數量來採購產品或服務，以增加共同的議價能力及 降低採購成本"
+      },
+      {
+        "label": "D",
+        "text": "商務行銷 / 銷售協同商務:指供應商到零售商之間利用網際網路進行規劃、預測階段的合作，透過資訊分享與共同合 作來減少產品供需不協調所造成長鞭效應現象，以增加供應鏈整體的利益"
+      }
+    ],
+    "answer": "C",
+    "explanation": "採購協同商務是集合多個買主的採購需求以提高議價能力；其他選項的敘述均與其對應的功能名稱相反。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030008",
+    "title": "[EB030008] 關於知識轉換模式及知識轉換循環地運作，下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "透過四種知識轉換循環地運作即稱為:知識螺旋"
+      },
+      {
+        "label": "B",
+        "text": "內化:外顯 → 內隱；外化:內隱 → 外顯"
+      },
+      {
+        "label": "C",
+        "text": "組合化:外顯 → 外顯；社會化:內隱 → 內隱"
+      },
+      {
+        "label": "D",
+        "text": "共同化:外顯 → 外顯；組合化:內隱 → 內隱"
+      }
+    ],
+    "answer": "D",
+    "explanation": "SECI模型中，共同化（社會化）為內隱至內隱知識轉換，組合化為外顯至外顯知識轉換，選項(D)敘述相反。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030009",
+    "title": "[EB030009] 知識移轉的過程分為五階段的模式:1.應用、2.溝通、3.同化、4.取得、5.接受，下列哪一項為正確的五個階段順序？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 → 2 → 3 → 4 → 5"
+      },
+      {
+        "label": "B",
+        "text": "4 → 2 → 1 → 5 → 3"
+      },
+      {
+        "label": "C",
+        "text": "1 → 4 → 5 → 2 → 3"
+      },
+      {
+        "label": "D",
+        "text": "4 → 1 → 2 → 3 → 5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "吉爾伯特與高登提出的知識移轉順序為：取得（Acquisition）、溝通、應用、接受與同化。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030010",
+    "title": "[EB030010] 關於線上分析處理的分析方式，下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "切片(Slicing):是將幾個維度設定成一個區間來進行分析"
+      },
+      {
+        "label": "B",
+        "text": "轉軸(Pivoting):是將維度的資料旋轉，讓使用者以不同的角度來分析資料"
+      },
+      {
+        "label": "C",
+        "text": "上捲(Roll-Up):是指加總較低維度的資料並隱藏這個維度，以檢視整體資料"
+      },
+      {
+        "label": "D",
+        "text": "下探(Drill-Down):是將高維度的整體資料再細分成較低維度的資料，以檢視詳細的資料內容"
+      }
+    ],
+    "answer": "A",
+    "explanation": "切片（Slicing）是指在多維數據庫中選擇單一維度的單一數值；將多個維度設定成區間分析為切塊（Dicing）。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030011",
+    "title": "[EB030011] 下列敘述哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "依據顧客關係管理系統的應用範圍，可以分為溝通型 CRM、操作型 CRM、分析型 CRM"
+      },
+      {
+        "label": "B",
+        "text": "支援與顧客接觸連繫的 CRM 稱為溝通型 CRM。透過溝通型 CRM 系統與顧客互動，企業可以收集到顧客的現況及對 企業產品或服務的滿意程度"
+      },
+      {
+        "label": "C",
+        "text": "支援銷售人員與顧客接觸的 CRM 稱為操作型 CRM，也稱為前台型 CRM"
+      },
+      {
+        "label": "D",
+        "text": "被使用來分析企業所蒐集的顧客及交易資料的 CRM 稱為分析型 CRM，也稱為前台型 CRM。分析型 CRM 必須提供 三個主要功能:業務自動化、顧客服務、行銷"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "分析型CRM主要用於後台數據分析以支持決策，而非前台型，且業務自動化等三項功能屬於操作型CRM。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030012",
+    "title": "[EB030012] 下列哪一項是行動運算加物聯網加人工智慧的一種發明，其指的是一種以電腦所產生出來的多媒體資訊(文字、聲音、圖型、視訊等)來提升、擴增使用者對目前在實際世界上所看到的一個實體物件(產品、建築物、書籍等)的資訊？",
+    "options": [
+      {
+        "label": "A",
+        "text": "巨量分析運算"
+      },
+      {
+        "label": "B",
+        "text": "社群運算"
+      },
+      {
+        "label": "C",
+        "text": "雲端運算"
+      },
+      {
+        "label": "D",
+        "text": "擴增實境"
+      }
+    ],
+    "answer": "D",
+    "explanation": "擴增實境（AR）技術能將電腦產生的虛擬資訊疊加在真實世界的實體物件上，藉此增強使用者的視覺體驗。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030013",
+    "title": "[EB030013] 下列哪一項不是數位化網路經濟體系的三大促動力量？",
+    "options": [
+      {
+        "label": "A",
+        "text": "普及化"
+      },
+      {
+        "label": "B",
+        "text": "交易化"
+      },
+      {
+        "label": "C",
+        "text": "數位化"
+      },
+      {
+        "label": "D",
+        "text": "網路化"
+      }
+    ],
+    "answer": "B",
+    "explanation": "數位化網路經濟的三大促動力為：數位化、網路化以及普及化，並不包含(B)交易化。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030014",
+    "title": "[EB030014] 關於 RFID 與傳統條碼的比較，下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "以成本做比較，RFID 的成本高，條碼的成本非常低"
+      },
+      {
+        "label": "B",
+        "text": "以非法複製容易度做比較，RFID 容易，條碼非常困難"
+      },
+      {
+        "label": "C",
+        "text": "以對環境變化及耐污性的忍受度做比較，RFID 高，條碼非常低"
+      },
+      {
+        "label": "D",
+        "text": "以間接讀取性做比較，RFID 可間接讀取，條碼無法間接讀取"
+      }
+    ],
+    "answer": "B",
+    "explanation": "傳統條碼極易複製且安全性低，而RFID晶片具備密碼保護與加密技術，不易被非法複製與偽造。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030015",
+    "title": "[EB030015] 下列哪一項是一種結合分散式運算、行動運算、感測網路、人工智慧與人機界面的科技平台，其主要結構有三個Level:感測器層、網路層、分析層？",
+    "options": [
+      {
+        "label": "A",
+        "text": "AR"
+      },
+      {
+        "label": "B",
+        "text": "RFID"
+      },
+      {
+        "label": "C",
+        "text": "IOT"
+      },
+      {
+        "label": "D",
+        "text": "ERP"
+      }
+    ],
+    "answer": "C",
+    "explanation": "物聯網（IoT）的核心架構可分為三層：感知層（感測器）、網路層（傳輸）與應用層（分析與處理）。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030016",
+    "title": "[EB030016] 關於企業電子化的敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "企業電子化使用數位化技術強化組織的領導能力"
+      },
+      {
+        "label": "B",
+        "text": "企業電子化為利用 Internet、Intranet 和 Extranet 等系統將企業內部價值鏈與外部策略伙伴進行結合"
+      },
+      {
+        "label": "C",
+        "text": "企業電子化主要將組織的前台網站與後台系統做一整合"
+      },
+      {
+        "label": "D",
+        "text": "企業電子化牽涉到整個組織價值鏈與經營模式的再造"
+      }
+    ],
+    "answer": "BCD",
+    "explanation": "企業電子化（EB）著重於內部與外部價值鏈的數位化串接與業務流程再造，不以強化組織領導能力為主。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030017",
+    "title": "[EB030017] 關於電子商務(EC)與企業電子化(EB)的比較，下列哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "EC 為 EB 的一部分"
+      },
+      {
+        "label": "B",
+        "text": "EC 主要支援企業與顧客之間的商務活動，EB 則支援企業內部價值鏈活動與外部跨組織活動"
+      },
+      {
+        "label": "C",
+        "text": "EC 強調虛擬 .Com 的組織結構，而 EB 強調虛實合一的組織結構"
+      },
+      {
+        "label": "D",
+        "text": "EC 對於組織經營模式的轉型程度較大，而 EB 對於組織經營模式的轉型程度較小"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "電子商務（EC）偏重交易與外部溝通，企業電子化（EB）範疇更廣，對組織轉型與流程重組的程度更大。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030018",
+    "title": "[EB030018] 關於 EB 與傳統資訊系統的比較，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "EB 對於內部資料的儲存以資料倉儲與資料超市為主，而傳統資訊系統以資料庫為主"
+      },
+      {
+        "label": "B",
+        "text": "EB 以 web-based 介面為主，而傳統資訊系統的每個 IS 介面不同"
+      },
+      {
+        "label": "C",
+        "text": "EB 與客戶之間的互動以 CRM 為主，而傳統資訊系統則以人工或電話來加以處理"
+      },
+      {
+        "label": "D",
+        "text": "EB 以專屬的 LAN 來進行內部連結，而傳統資訊系統則以 Intranet 來進行內部整合"
+      }
+    ],
+    "answer": "D",
+    "explanation": "企業電子化（EB）是利用網際網路與內部網路（Intranet）進行整合，而非傳統資訊系統所使用的區域網路。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030019",
+    "title": "[EB030019] 下列哪些為 ERP 包含的模組？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "物料與庫存管理"
+      },
+      {
+        "label": "B",
+        "text": "財務會計管理"
+      },
+      {
+        "label": "C",
+        "text": "人力資源管理"
+      },
+      {
+        "label": "D",
+        "text": "企業行政管理"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "ERP系統涵蓋企業運營的核心流程，包含物料庫存、財務會計、人力資源及企業行政管理等模組。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030020",
+    "title": "[EB030020] 下列哪一項不是長鞭效應產生的原因？",
+    "options": [
+      {
+        "label": "A",
+        "text": "價格變動過大"
+      },
+      {
+        "label": "B",
+        "text": "訂單誇大"
+      },
+      {
+        "label": "C",
+        "text": "前置時間過短"
+      },
+      {
+        "label": "D",
+        "text": "大量批次訂購"
+      }
+    ],
+    "answer": "C",
+    "explanation": "前置時間過長會擴大需求預測的誤差與庫存積壓，進而加劇長鞭效應；前置時間過短則能降低長鞭效應。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030021",
+    "title": "[EB030021] 關於於 CRM 的敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "顧客關係管理主要依據消費者對產品的慾望與需求，區分不同的顧客群"
+      },
+      {
+        "label": "B",
+        "text": "顧客關係管理提升老顧客的荷包貢獻率，以交叉銷售方式(cross sell)向顧客促銷更新、更好、更貴的商品"
+      },
+      {
+        "label": "C",
+        "text": "利用資訊科技支援顧客服務及個人化，以微型區隔為核心"
+      },
+      {
+        "label": "D",
+        "text": "顧客關係管理的目地在於提高公司管理效能"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "CRM以微型區隔為核心，依需求區分客群；促銷更貴商品為向上銷售而非交叉銷售。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030022",
+    "title": "[EB030022] Pepper & Rogers 提出的一對一量身訂作 CRM 流程有四個主要步驟，分別為 a.互動、b.區隔、c.辨識、d.客製化，請問其執行的正確順序，下列哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "abcd"
+      },
+      {
+        "label": "B",
+        "text": "cabd"
+      },
+      {
+        "label": "C",
+        "text": "cbad"
+      },
+      {
+        "label": "D",
+        "text": "cdba"
+      }
+    ],
+    "answer": "C",
+    "explanation": "顧客關係管理的一對一步驟為辨識(c)、區隔(b)、互動(a)到客製化(d)，順序為cbad。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030023",
+    "title": "[EB030023] 關於 ERP 與 SCM 的比較，下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ERP 主要支援的範圍為企業內部價值鏈流程，SCM 則主要支援跨組織的供應鏈流程"
+      },
+      {
+        "label": "B",
+        "text": "ERP 提升組織作業面的效率，SCM 則提升組織策略面的最佳化"
+      },
+      {
+        "label": "C",
+        "text": "ERP 主要系統為支援交易的 OLTP 系統，而 SCM 則主要為支援決策導向的 DSS、BI、以及跨組織資訊系統"
+      },
+      {
+        "label": "D",
+        "text": "ERP 的訓練較為複雜，而 SCM 訓練較為簡單"
+      }
+    ],
+    "answer": "D",
+    "explanation": "SCM涉及跨組織協同與決策優化，其導入與培訓複雜度通常高於或不低於ERP。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030024",
+    "title": "[EB030024] 關於供應鏈管理系統(SCM)產生的效益，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "提升 SC 的回應速度與彈性"
+      },
+      {
+        "label": "B",
+        "text": "降低 SC 的不確定性"
+      },
+      {
+        "label": "C",
+        "text": "降低 SC 的交易成本"
+      },
+      {
+        "label": "D",
+        "text": "降低 SC 的資產利用率"
+      }
+    ],
+    "answer": "D",
+    "explanation": "供應鏈管理系統（SCM）旨在優化資源配置，進而提高而非降低資產利用率。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030025",
+    "title": "[EB030025] 下列哪一項不是顧客關係管理中提及的 4C？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cost"
+      },
+      {
+        "label": "B",
+        "text": "Convenience"
+      },
+      {
+        "label": "C",
+        "text": "Communication"
+      },
+      {
+        "label": "D",
+        "text": "Commitment"
+      }
+    ],
+    "answer": "D",
+    "explanation": "顧客關係管理中的4C為顧客、成本、便利與溝通，不包含承諾（Commitment）。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030026",
+    "title": "[EB030026] 下列哪一項不是 ERP 應用上的特色？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ERP 是一個內部管理導向系統"
+      },
+      {
+        "label": "B",
+        "text": "ERP 是一個模組化整合系統"
+      },
+      {
+        "label": "C",
+        "text": "ERP 使用分權式的分散控管架構"
+      },
+      {
+        "label": "D",
+        "text": "ERP 內建最佳實務範本"
+      }
+    ],
+    "answer": "C",
+    "explanation": "ERP強調企業資源的整合與集中式資料管理，而非採用分權式的分散控管架構。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030027",
+    "title": "[EB030027] 拉式供應鏈不具備下列哪一項特色？",
+    "options": [
+      {
+        "label": "A",
+        "text": "生產是依據需求預測而產生"
+      },
+      {
+        "label": "B",
+        "text": "反應能力強"
+      },
+      {
+        "label": "C",
+        "text": "能為顧客提供量身訂製的產品和服務"
+      },
+      {
+        "label": "D",
+        "text": "客製化成本高"
+      }
+    ],
+    "answer": "A",
+    "explanation": "拉式供應鏈是依據實際顧客需求（接單）進行生產，而非依據長期的需求預測。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030028",
+    "title": "[EB030028] META Group 將協同商務分為四大功能，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "設計協同"
+      },
+      {
+        "label": "B",
+        "text": "行銷協同"
+      },
+      {
+        "label": "C",
+        "text": "採購協同"
+      },
+      {
+        "label": "D",
+        "text": "製造協同"
+      }
+    ],
+    "answer": "D",
+    "explanation": "META Group提出的協同商務四大類別為設計、採購、行銷與規劃協同，不包含製造協同。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030029",
+    "title": "[EB030029] 關於 RFID 的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "無線射頻辨識技術，為一種非接觸式的自動辨識系統"
+      },
+      {
+        "label": "B",
+        "text": "安全性較 QR Code 為差，然而成本較 QR Code 為低"
+      },
+      {
+        "label": "C",
+        "text": "包含詢答器(Transponder)與讀取器(Reader)兩種裝置"
+      },
+      {
+        "label": "D",
+        "text": "根據標籤電源有無分為主動式與被動式兩種"
+      }
+    ],
+    "answer": "B",
+    "explanation": "RFID電子標籤的硬體與技術成本遠高於可直接列印的QR Code，且其安全性較佳。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030030",
+    "title": "[EB030030] 關於 OLTP(Online Transaction Procession)與 OLAP(Online Analytical Processing)的比較，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "OLTP 支援交易處理活動，OLAP 支援決策分析"
+      },
+      {
+        "label": "B",
+        "text": "OLTP 注意交易明細，OLAP 注意彙總性資料"
+      },
+      {
+        "label": "C",
+        "text": "OLTP 使用人員為業務處理人員，OLAP 使用人員為高階決策人員"
+      },
+      {
+        "label": "D",
+        "text": "OLTP 整合異質的資料庫，OLAP 則不強調資料庫的整合"
+      }
+    ],
+    "answer": "D",
+    "explanation": "OLAP用於決策分析，需整合異質資料庫；OLTP則主要處理單一系統的日常交易。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030031",
+    "title": "[EB030031] 資深醫師對於新進醫師，透過會議進行案例的討論、分享以及辯論傳達醫學知識，此種程序屬於 Nonaka&Takuichi(1995)提出的 SECI 模式中的哪一個？",
+    "options": [
+      {
+        "label": "A",
+        "text": "社會化"
+      },
+      {
+        "label": "B",
+        "text": "組合化"
+      },
+      {
+        "label": "C",
+        "text": "外化"
+      },
+      {
+        "label": "D",
+        "text": "內化"
+      }
+    ],
+    "answer": "A",
+    "explanation": "醫師間透過討論與分享經驗傳達內隱知識，屬於內隱至內隱的社會化（Socialization）過程。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030032",
+    "title": "[EB030032] 關於全面品質管理(TQM)及企業流程再造(BPR)的特色與其間的差異，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "TQM 的重點在事前預防錯誤而非事後檢驗"
+      },
+      {
+        "label": "B",
+        "text": "TQM 強調漸進地對工作流程進行持續不斷的品質改善"
+      },
+      {
+        "label": "C",
+        "text": "BPR 強調如果經營模式有誤，則應進行流程重新設計便可提升企業效率"
+      },
+      {
+        "label": "D",
+        "text": "BPR 強調劇烈的、必須從根本上淘汰工業革命留下來的舊流程，引進資訊革命後，有效率的新流程"
+      }
+    ],
+    "answer": "C",
+    "explanation": "BPR強調對業務流程進行根本性與劇烈的重新設計，但若經營模式本身有誤，光改流程無法解決。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030033",
+    "title": "[EB030033] 電子商務與企業電子化特色差異，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "電子商務以買賣交易的商務為主，行銷導向"
+      },
+      {
+        "label": "B",
+        "text": "電子商務主要提供的支援服務有線上交易處理、決策支援、企業資源規劃、供應鏈及協同商務"
+      },
+      {
+        "label": "C",
+        "text": "企業電子化主要系統範圍有前台網站及後台應用系統"
+      },
+      {
+        "label": "D",
+        "text": "企業電子化主要組織結構為虛實合一的組織結構"
+      }
+    ],
+    "answer": "B",
+    "explanation": "ERP、SCM與協同商務屬於企業電子化（EB）的支援服務，而非電子商務（EC）的範疇。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030034",
+    "title": "[EB030034] 企業的 IT 架構從傳統的交易處理系統 TPS → 電子商務 EC → 企業電子化 EB 的演進階段，下列哪一項正確？1.只提供資訊的Web、2.提供互動溝通的 Web、3.提供交易執行的 Web、4.跨組織整合的 EB 系統、5.前後台整合的 EB 系統",
+    "options": [
+      {
+        "label": "A",
+        "text": "12345"
+      },
+      {
+        "label": "B",
+        "text": "13254"
+      },
+      {
+        "label": "C",
+        "text": "13245"
+      },
+      {
+        "label": "D",
+        "text": "12354"
+      }
+    ],
+    "answer": "D",
+    "explanation": "演進順序為：單向資訊、互動溝通、交易執行，再到內部前後台整合，最後進行跨組織整合。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030035",
+    "title": "[EB030035] 企業電子化的策略規劃程序，下列哪一項正確？1.建立企業願景、2.確定目標與市場定位、3.擬訂企業電子化策略、4.電子化導入評估要點、5.委外建置或自行開發、6.成果評估與回饋",
+    "options": [
+      {
+        "label": "A",
+        "text": "123456"
+      },
+      {
+        "label": "B",
+        "text": "132456"
+      },
+      {
+        "label": "C",
+        "text": "142356"
+      },
+      {
+        "label": "D",
+        "text": "134256"
+      }
+    ],
+    "answer": "C",
+    "explanation": "策略規劃程序應先建立願景，接著進行評估，再確定定位、擬訂策略、建置並進行成果評估。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030036",
+    "title": "[EB030036] Wal-Mart 要求大部份的日用品雜貨供應商利用 Wal-Mart 的 POS 資訊，依據雙方認同的存貨水準範圍內，規劃及保持適當的存貨水準，由供應商管理存貨，Wal-Mart 只有在經過櫃檯掃描時才短暫擁有這些貨品，Wal-Mart 供應商策略是採用下列哪一項策略？",
+    "options": [
+      {
+        "label": "A",
+        "text": "QR(Quick Response)策略"
+      },
+      {
+        "label": "B",
+        "text": "CR(Continuous Replenishment)策略"
+      },
+      {
+        "label": "C",
+        "text": "VMI(Vender Managed Inventory)策略"
+      },
+      {
+        "label": "D",
+        "text": "RFQ(Request For Quotation)策略"
+      }
+    ],
+    "answer": "C",
+    "explanation": "供應商利用零售商的銷售資訊主導並規劃庫存，屬於供應商管理庫存（VMI）策略。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030037",
+    "title": "[EB030037] K-Mart 提供供應商 3 年的歷史資料與每日的 POS 資料給上游的三明治公司，而供應商必須保證隨時維持 K-Mart 適當的存貨水準，K-Mart 供應商策略是採用下列哪一項方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "QR(Quick Response)策略"
+      },
+      {
+        "label": "B",
+        "text": "CR(Continuous Replenishment)策略"
+      },
+      {
+        "label": "C",
+        "text": "VMI(Vender Managed Inventory)策略"
+      },
+      {
+        "label": "D",
+        "text": "RFQ(Request For Quotation)策略"
+      }
+    ],
+    "answer": "B",
+    "explanation": "提供歷史與每日POS資料供供應商隨時補貨以維持庫存，屬於連續補貨（CR）策略。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030038",
+    "title": "[EB030038] 小明是個公車族，每天搭公車前都會使用手機的公車 APP，查看公車何時到，這是屬於行動應用的下列哪一種服務？",
+    "options": [
+      {
+        "label": "A",
+        "text": "適地性服務(Location-Based Service LBS)"
+      },
+      {
+        "label": "B",
+        "text": "行動社群網路(Mobile Social Networking Service MSNS)"
+      },
+      {
+        "label": "C",
+        "text": "行動搜尋(Mobile Search)"
+      },
+      {
+        "label": "D",
+        "text": "行動商務(Mobile Commerce)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "使用APP查詢公車到站時間，屬於主動查詢與檢索即時資訊的行動搜尋（Mobile Search）服務。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030039",
+    "title": "[EB030039] ETL 是資料倉儲或商業智慧建置的關建程序，會影響商業智慧的效率與效能，關於 ETL 敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "Extract 資料萃取:依照進行資料分析所需的資料來源，將資料從企業內外部各個資訊系統或資料庫中讀取出來"
+      },
+      {
+        "label": "B",
+        "text": "Transform 資料轉換:將萃取出來的資料清除不需要的內容，再轉換成規劃的資料結構，讓所有的資料有一致的格式"
+      },
+      {
+        "label": "C",
+        "text": "Link 資料連結:完成萃取及轉換後的資料，依照原先之規劃將各資料連接並編碼，作為將來進一步的資料分析之用"
+      },
+      {
+        "label": "D",
+        "text": "Load 資料載入:完成萃取及轉換後的資料，依照原先之規劃儲存到資料倉儲中"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "ETL代表資料的萃取（Extract）、轉換（Transform）與載入（Load），不包含連結。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030040",
+    "title": "[EB030040] 我們到某個地點或某家商店後，可以「打卡」通知臉書上的朋友，這是屬於行動應用的下列哪一種服務？",
+    "options": [
+      {
+        "label": "A",
+        "text": "適地性服務(Location-Based Service LBS)"
+      },
+      {
+        "label": "B",
+        "text": "行動社群網路(Mobile Social Networking Service MSNS)"
+      },
+      {
+        "label": "C",
+        "text": "行動搜尋(Mobile Search)"
+      },
+      {
+        "label": "D",
+        "text": "行動商務(Mobile Commerce)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "依據行動裝置所在的地理位置進行打卡並通知好友，為適地性服務（LBS）的典型應用。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030041",
+    "title": "[EB030041] 利用手機登入「行動銀行 APP」，可以進行線上繳費、存款轉帳、繳費、餘額查詢、利率匯率查詢、歷史明細查詢、信用卡消費紀錄查詢，這是屬於行動應用的下列哪一種服務？",
+    "options": [
+      {
+        "label": "A",
+        "text": "適地性服務(Location-Based Service LBS)"
+      },
+      {
+        "label": "B",
+        "text": "行動社群網路(Mobile Social Networking Service MSNS)"
+      },
+      {
+        "label": "C",
+        "text": "行動搜尋(Mobile Search)"
+      },
+      {
+        "label": "D",
+        "text": "行動商務(Mobile Commerce)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "透過手機App進行轉帳、繳費及查詢帳戶等金融交易活動，屬於行動商務（Mobile Commerce）範疇。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030042",
+    "title": "[EB030042] 在手機上直接下載 QR Code 的高鐵車票，進行付款，這是屬於行動應用的下列哪些服務？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "適地性服務(Location-Based Service LBS)"
+      },
+      {
+        "label": "B",
+        "text": "行動社群網路(Mobile Social Networking Service MSNS)"
+      },
+      {
+        "label": "C",
+        "text": "行動搜尋(Mobile Search)"
+      },
+      {
+        "label": "D",
+        "text": "行動商務(Mobile Commerce)"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "手機付款買票屬於行動商務；而乘車與感應進站則結合了特定位置的地理辨識與適地性服務。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030043",
+    "title": "[EB030043] 消費者利用手持設備在線上搜尋，下載行動網頁的交易資訊、折扣券、QR Code 等，並即時在實體商店採購，付款或掃描 QRCode，是屬於哪一項商務模式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "B2B"
+      },
+      {
+        "label": "B",
+        "text": "B2C"
+      },
+      {
+        "label": "C",
+        "text": "O2O"
+      },
+      {
+        "label": "D",
+        "text": "P2P"
+      }
+    ],
+    "answer": "C",
+    "explanation": "消費者在線上獲取折扣或資訊後，至實體店面進行體驗與消費，屬於線上對線下（O2O）模式。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030044",
+    "title": "[EB030044] 關於顧客關係管理的 10C 模式敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "顧客贏取率(Customer Acquisition):企業提供比競爭對手更高價值的產品與服務，來吸引新顧客的青睞與採購"
+      },
+      {
+        "label": "B",
+        "text": "顧客獲利率(Customer Profitability):顧客期望從產品或服務所能獲得利益的集合，包括產品價值、服務價值、員 工友誼價值、品牌價值等"
+      },
+      {
+        "label": "C",
+        "text": "顧客保留率(Customer Retention):如何留住有價值的現有顧客，不讓其流失，透過更貼心或是專屬的服務，來 提升現有顧客的滿意度，以降低其流失率"
+      },
+      {
+        "label": "D",
+        "text": "顧客價值(Customer Value):又稱為顧客的終身價值，指顧客終身對企業所有可能貢獻的利潤"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "10C中，(B)敘述實為顧客價值的概念；(D)敘述為顧客終身價值，故正確為(AC)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030045",
+    "title": "[EB030045] 企業資源規劃(ERP)跟傳統系統的主要區別有下列哪些？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "企業資源規劃大都為集式資料管理"
+      },
+      {
+        "label": "B",
+        "text": "傳統系統大多數是獨立運作"
+      },
+      {
+        "label": "C",
+        "text": "ERP 的導入如不配合企業流程再造(BPR)則不可能成功"
+      },
+      {
+        "label": "D",
+        "text": "傳統系統採用模組化的設計架構，可以新增功能來擴展系統功能，系統容易擴展演化"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "傳統系統非模組化設計且難以擴展；ERP強調集中式管理，且多須結合BPR流程再造方能成功。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030046",
+    "title": "[EB030046] 關於 ERP 與 SCM 的比較，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "ERP 著重在整合企業內部流程，SCM 著重協調上下游產業"
+      },
+      {
+        "label": "B",
+        "text": "ERP 主要為規劃決策導向的決策支援系統(Decision Support Systems DSS)，SCM 主要為交易導向的線上即時分 析(Online Analytical Processing OLTP)"
+      },
+      {
+        "label": "C",
+        "text": "ERP 著重在作業面，SCM 著重營運規劃面"
+      },
+      {
+        "label": "D",
+        "text": "ERP 著重在內部價值的提升，SCM 著重跨組織價值的提升"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "(B)敘述相反，ERP為交易導向的OLTP，SCM則為規劃與決策導向的DSS系統。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030047",
+    "title": "[EB030047] 關於供應鏈策略的敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "在推式供應鏈中，生產和配送決策乃是依據長期的預測來進行的，也就是計畫生產模式"
+      },
+      {
+        "label": "B",
+        "text": "在拉式供應鏈中，生產是依據實際顧客的需求來做決策，也就是接單後生產模式"
+      },
+      {
+        "label": "C",
+        "text": "在推拉式供應鏈中是指在供應鏈的某些階段採用推式策略，一般都會在供應鏈起始階段採用推式策略，而在其他階段 採用拉式策略"
+      },
+      {
+        "label": "D",
+        "text": "在拉式供應鏈中容易產生長鞭效應"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "拉式供應鏈依實際需求生產，能減少長鞭效應，而非容易產生長鞭效應，故(D)錯誤。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030048",
+    "title": "[EB030048] 員工利用專家系統來訓練或透過資訊的分析與詮釋，使得員工改善其技能與知識等的知識轉移，是屬 Nonaka & Takuichi(1995)組織知識創造 SECI 模式哪一種？",
+    "options": [
+      {
+        "label": "A",
+        "text": "社會化(Socialization)"
+      },
+      {
+        "label": "B",
+        "text": "外化(Externalization)"
+      },
+      {
+        "label": "C",
+        "text": "組合化(Combination)"
+      },
+      {
+        "label": "D",
+        "text": "內化(Internalization)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "透過網路工具與客戶進行協同設計並整合物流分析，屬於供應鏈管理中的協同整合特色。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030049",
+    "title": "[EB030049] 銀行將信用卡持卡人分為高消費族、保守族、新貴族、貴婦族等，是利用資料探勘(Data Mining)的哪一種技術？",
+    "options": [
+      {
+        "label": "A",
+        "text": "關聯分析(Association)"
+      },
+      {
+        "label": "B",
+        "text": "分類(Classification)"
+      },
+      {
+        "label": "C",
+        "text": "分群(Clustering)"
+      },
+      {
+        "label": "D",
+        "text": "順序(Sequence)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "將成員整合成虛擬企業並共同制定策略，屬於從供應鏈整合面來解決長鞭效應的作法。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030050",
+    "title": "[EB030050] 下列哪些是巨量資料產生的三大動能 3V？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "資料的價值(Value)"
+      },
+      {
+        "label": "B",
+        "text": "資料流動速度(Velocity)"
+      },
+      {
+        "label": "C",
+        "text": "資料的不同來源(Variety)"
+      },
+      {
+        "label": "D",
+        "text": "資料量(Volume)"
+      }
+    ],
+    "answer": "BCD",
+    "explanation": "藉由分享經驗將內隱知識傳播給他人，進而創造新內隱知識的過程，稱為社會化。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030051",
+    "title": "[EB030051] 關於企業 e 化的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "企業 e 化就是企業電子化或 e 化企業(e-Business)"
+      },
+      {
+        "label": "B",
+        "text": "企業利用 Internet、Intranet、Extranet 及各種整合的資訊系統"
+      },
+      {
+        "label": "C",
+        "text": "將企業內部價值鍊與外部顧客、供應商、策略伙伴間的各種交易相關的活動，進行連結、整合與再造"
+      },
+      {
+        "label": "D",
+        "text": "企業 e 化由於系統較多，會導致企業經營效率降低"
+      }
+    ],
+    "answer": "D",
+    "explanation": "企業e化的目的在於藉由資訊系統整合，提升企業的整體經營效率與應變能力，而非降低效率。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030052",
+    "title": "[EB030052] 企業 e 化的主要 IT 工具包含下列哪些？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "KM 知識管理(Knowledge Management)"
+      },
+      {
+        "label": "B",
+        "text": "CRM 客戶關係管理(Customer relationship management)"
+      },
+      {
+        "label": "C",
+        "text": "GS 遊戲系統(Game System)"
+      },
+      {
+        "label": "D",
+        "text": "ERP 企業資源規劃(Enterprise Resource Planning)"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "企業e化的核心IT工具包括ERP、CRM與KM等商業管理系統，不包含遊戲系統（GS）。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030053",
+    "title": "[EB030053] 供應鏈策略可分成下列哪三大類型？",
+    "options": [
+      {
+        "label": "A",
+        "text": "推式供應鏈(Push-Based Supply Chain)、拉式供應鏈(Pull-Based Supply Chain)、混合式供應鏈(Push- Pull Based Supply Chain)"
+      },
+      {
+        "label": "B",
+        "text": "上方供應鏈(Above Supply Chain)、下方供應鏈(Underneath Supply Chain)、上下方供應鏈(Above- Underneath Based Supply Chain)"
+      },
+      {
+        "label": "C",
+        "text": "前台供應鏈(Reception Supply Chain)、後台供應鏈(Backstage Supply Chain)、混合式供應鏈(Push- Pull Based Supply Chain)"
+      },
+      {
+        "label": "D",
+        "text": "第一供應鏈(First Supply Chain)、第二供應鏈(Second Supply Chain)、混合式供應鏈(Push- Pull Based Supply Chain)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "供應鏈的基本策略依生產驅動模式分為推式（預測）、拉式（需求）及推拉混合式三類。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030054",
+    "title": "[EB030054] 目前建置企業 BI 商業智慧(Business Intelligence)工具不包含下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "資料探查(Data Mining)"
+      },
+      {
+        "label": "B",
+        "text": "資料倉儲(Data Warehouse)"
+      },
+      {
+        "label": "C",
+        "text": "線上分析處理(On-Line Analytical Processing)"
+      },
+      {
+        "label": "D",
+        "text": "SSL 安全通訊階層協定(Secure Sockets Layer Protocol)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "SSL是網路傳輸的加密安全協定，不屬於商業智慧（BI）之決策分析與資料儲存工具。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030055",
+    "title": "[EB030055] ERP 企業資源規劃(Enterprise Resource Planning)主要六大核心模組為下列哪三項？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "生產與製造管理、人力資源管理"
+      },
+      {
+        "label": "B",
+        "text": "物料與庫存管理、財務會計管理"
+      },
+      {
+        "label": "C",
+        "text": "銷售與訂單管理、企業行政管理"
+      },
+      {
+        "label": "D",
+        "text": "資安與監控管理、企業行銷管理"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "ERP的六大核心功能模組涵蓋生產、人資、物料、財務、銷售與行政管理，不包含資安監控。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030056",
+    "title": "[EB030056] 下列哪一項不是行動行銷(Mobile Marketing)的主要行銷管道？",
+    "options": [
+      {
+        "label": "A",
+        "text": "簡訊傳遞(SMS/MMS)"
+      },
+      {
+        "label": "B",
+        "text": "行動網站(Mobile Web Site)"
+      },
+      {
+        "label": "C",
+        "text": "紙本文宣(Paper Propaganda)"
+      },
+      {
+        "label": "D",
+        "text": "智慧營手機下載行動應用程式(Mobile Application)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "紙本文宣屬於傳統的實體印刷媒介，不屬於透過無線網路或行動裝置傳遞的行動行銷管道。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030057",
+    "title": "[EB030057] ERP 企業資源規劃(Enterprise Resource Planning)進行系統導入時，有較高的失敗率，可能的失敗原因為下列哪些？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "ERP 造成組織強大的衝擊與抗拒"
+      },
+      {
+        "label": "B",
+        "text": "ERP 過高的擁有成本"
+      },
+      {
+        "label": "C",
+        "text": "有清楚的 ERP 策略目標與範圍"
+      },
+      {
+        "label": "D",
+        "text": "ERP 妨害組織的策略優勢"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "明確的策略目標與範圍是系統成功的關鍵因素；而組織抗拒、高昂成本與削弱優勢則是失敗主因。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030058",
+    "title": "[EB030058] 下列哪一項不是供應鏈(supply chain)常見的互抵效應(Trade-Off Effect)？",
+    "options": [
+      {
+        "label": "A",
+        "text": "行銷方式 vs 價格策略"
+      },
+      {
+        "label": "B",
+        "text": "生產批量 vs 少樣多量"
+      },
+      {
+        "label": "C",
+        "text": "服務水準 vs 庫存成本"
+      },
+      {
+        "label": "D",
+        "text": "運輸費用 vs 庫存成本"
+      }
+    ],
+    "answer": "A",
+    "explanation": "行銷方式與價格策略屬於市場推廣決策，非供應鏈物流與營運中典型的資源拉鋸與互抵效應。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030059",
+    "title": "[EB030059] 關於長鞭效應(Bullwhip Effect)的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "產品需求的資訊隨著在供應鏈(supply chain)成員間循序傳遞時，所產生的扭曲現象"
+      },
+      {
+        "label": "B",
+        "text": "是一種虛增效應(Demand Amplification)"
+      },
+      {
+        "label": "C",
+        "text": "供給短缺之預期心理"
+      },
+      {
+        "label": "D",
+        "text": "會造成供應商庫存變少與成本降低"
+      }
+    ],
+    "answer": "D",
+    "explanation": "長鞭效應會導致供應鏈上游產生過度備貨與需求扭曲，進而增加庫存量與相關營運成本。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030060",
+    "title": "[EB030060] ERP 企業資源規劃(Enterprise Resource Planning)與 SCM 供應鏈管理(Supply Chain Management)都是企業電子化不可或缺的系統，關於兩者的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ERP 著重跨組織價值提升"
+      },
+      {
+        "label": "B",
+        "text": "SCM 著重營運規劃面"
+      },
+      {
+        "label": "C",
+        "text": "ERP 支援範圍為組織內部的價值鏈流程"
+      },
+      {
+        "label": "D",
+        "text": "SCM 支援範圍為跨組織的供應鏈流程"
+      }
+    ],
+    "answer": "A",
+    "explanation": "ERP的核心目標是優化企業內部的價值鏈與作業流程，而非著重於跨組織的價值提升。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030061",
+    "title": "[EB030061] 關於行動商務的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "透過手持設備、行動應用程式與無線網路來支援企業與客戶之間的行銷"
+      },
+      {
+        "label": "B",
+        "text": "包括行動行銷、行動票卷、行動採購、行動商務"
+      },
+      {
+        "label": "C",
+        "text": "包含桌上型電腦與筆記型電腦上使用有線網路的行銷與採購"
+      },
+      {
+        "label": "D",
+        "text": "包括行動銀行、行動仲介、行動應用採購(In-APP Purchase)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "桌機與筆電使用有線網路的交易屬於傳統電子商務，不符合行動商務需透過行動裝置與無線網路之定義。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030062",
+    "title": "[EB030062] 關於 EIP 企業入口網站的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "英文全稱為:Enterprise Information Portal"
+      },
+      {
+        "label": "B",
+        "text": "整合了企業內外部各種結構與非結構、靜態與動態的資訊與知識"
+      },
+      {
+        "label": "C",
+        "text": "利用應用程式介面，強調以非個人化的需求來呈現"
+      },
+      {
+        "label": "D",
+        "text": "也被稱為 EKP 企業知識入口網站 Enterprise Knowledge Portal"
+      }
+    ],
+    "answer": "C",
+    "explanation": "企業入口網站（EIP）強調以個人化需求來呈現資訊，而非提供非個人化的制式介面。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030063",
+    "title": "[EB030063] 企業內部的知識，可以概分為下列哪三類？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "結構化知識"
+      },
+      {
+        "label": "B",
+        "text": "半結構化知識"
+      },
+      {
+        "label": "C",
+        "text": "內隱知識"
+      },
+      {
+        "label": "D",
+        "text": "通俗知識"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "企業知識一般依結構與形式分為結構化、半結構化與內隱知識，不包含通俗知識。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030064",
+    "title": "[EB030064] 不具意義或目的之文字或數據，我們在知識的階層架構裡，會將其歸類到下列哪一個階層？",
+    "options": [
+      {
+        "label": "A",
+        "text": "資訊(Information)"
+      },
+      {
+        "label": "B",
+        "text": "資料(Data)"
+      },
+      {
+        "label": "C",
+        "text": "智慧(Wisdom)"
+      },
+      {
+        "label": "D",
+        "text": "知識(Knowledge)"
+      }
+    ],
+    "answer": "B",
+    "explanation": "資料（Data）是未經處理且不具備特定背景、意義或目的的原始文字或數字。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030065",
+    "title": "[EB030065] 下列哪一項是由美國著名管理諮詢公司於 1990 年提出的一個概念，其基本想法為建構一個整合企業內部營運資訊的系統平台，以做為企業內部管理及決策資訊來源的管理平台？",
+    "options": [
+      {
+        "label": "A",
+        "text": "知識管理(Knowledge Management)"
+      },
+      {
+        "label": "B",
+        "text": "供應鏈管理(Supply Chain Management)"
+      },
+      {
+        "label": "C",
+        "text": "物料需求規劃(Material Requirement Planning)"
+      },
+      {
+        "label": "D",
+        "text": "企業資源規劃(Enterprise Resource Planning)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "企業資源規劃（ERP）由Gartner於1990年提出，旨在整合企業內部的日常營運與決策資源。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030066",
+    "title": "[EB030066] 基於資訊回饋困難與前置時間的延遲，在傳統供應鏈中容易造成重複訂購或臨時取消訂單的決策，而產生需求放大(或縮小)的效果。此現象稱為下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "成本加成理論"
+      },
+      {
+        "label": "B",
+        "text": "長尾理論"
+      },
+      {
+        "label": "C",
+        "text": "長鞭效應"
+      },
+      {
+        "label": "D",
+        "text": "浮動訂單理論"
+      }
+    ],
+    "answer": "C",
+    "explanation": "供應鏈中因訊息延遲與不確定性，導致訂單波動隨往上游而放大的現象，稱為長鞭效應。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030067",
+    "title": "[EB030067] 關於供應鏈策略的敘述，下列哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "變動性較低、需求固定的市場，可採用拉式供應鏈"
+      },
+      {
+        "label": "B",
+        "text": "推式供應鏈中，生產和配送決策是預測市場的需求"
+      },
+      {
+        "label": "C",
+        "text": "接單後生產模式為拉式供應鏈"
+      },
+      {
+        "label": "D",
+        "text": "目前可先準備半成品，等顧客下單後再進行生產為推拉式供應鏈"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "穩定需求的市場適合推式供應鏈；而先準備半成品再依訂單生產屬於推拉式，此題官方將敘述正確的(D)列為錯誤選項，為配合檢定考試，此處答案維持官方公佈之(AD)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030068",
+    "title": "[EB030068] 振隆紙業在協助客戶研發設計時，同時以網路設計溝通工具，加強設計深度及縮短整體設計時間，並適時提供包裝物流分析，降低客戶物流成本，這是屬於供應鏈管理的下列哪一項特色？",
+    "options": [
+      {
+        "label": "A",
+        "text": "洞察消費需求"
+      },
+      {
+        "label": "B",
+        "text": "減少長鞭效應"
+      },
+      {
+        "label": "C",
+        "text": "非核心業務外包"
+      },
+      {
+        "label": "D",
+        "text": "協同整合"
+      }
+    ],
+    "answer": "D",
+    "explanation": "透過網路工具與客戶進行協同設計並整合物流分析，屬於供應鏈管理中的協同整合特色。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030069",
+    "title": "[EB030069] 透過供應鏈成員的充分合作，將整體供應鏈整合成單一虛擬企業，共同制定供應鏈生產的策略、數量與其他的內容，以解決長鞭效應所造成需求變動的問題。這是屬於解決長鞭效應的下列哪一種面向？",
+    "options": [
+      {
+        "label": "A",
+        "text": "資訊分享面"
+      },
+      {
+        "label": "B",
+        "text": "顧客需求面"
+      },
+      {
+        "label": "C",
+        "text": "企業溝通面"
+      },
+      {
+        "label": "D",
+        "text": "供應鏈整合面"
+      }
+    ],
+    "answer": "D",
+    "explanation": "將成員整合成虛擬企業並共同制定策略，屬於從供應鏈整合面來解決長鞭效應的作法。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030070",
+    "title": "[EB030070] Nonaka & Takeuchi(1995 年)認為有四種不同的知識創造模式，其中「由內隱知識到內隱知識，藉由分享經驗而達到創造內隱知識的過程」指的是下列哪一項模式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "外化(Externalization)"
+      },
+      {
+        "label": "B",
+        "text": "組合化(Combination)"
+      },
+      {
+        "label": "C",
+        "text": "內化(Internalization)"
+      },
+      {
+        "label": "D",
+        "text": "社會化(Socialization)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "藉由分享經驗將內隱知識傳播給他人，進而創造新內隱知識的過程，稱為社會化。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030071",
+    "title": "[EB030071] Nonaka & Takeuchi(1995 年)認為有四種不同的知識創造模式，其中「以語言、故事傳達知識，或將其製作文件手冊，將外顯知識轉換成內隱知識」指的是下列哪一項模式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "組合化"
+      },
+      {
+        "label": "B",
+        "text": "外化"
+      },
+      {
+        "label": "C",
+        "text": "內化"
+      },
+      {
+        "label": "D",
+        "text": "社會化"
+      }
+    ],
+    "answer": "C",
+    "explanation": "內化是指將外顯知識（如手冊、文件）吸收並轉化為個人的內隱知識（如技能、經驗）。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030072",
+    "title": "[EB030072] 如附圖所示，關於於 Arthur Anderson 所提出的組織知識分享的公式，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "K 代表組織知識(Organizational Knowledge)"
+      },
+      {
+        "label": "B",
+        "text": "S 代表技能(Skill)"
+      },
+      {
+        "label": "C",
+        "text": "I 代表資訊(Information)"
+      },
+      {
+        "label": "D",
+        "text": "P 代表人員(People)"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在安達信組織知識分享公式中，S代表分享（Sharing）而非技能（Skill）。",
+    "imageUrl": "data:image/png;base64,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"
+  },
+  {
+    "id": "EB030073",
+    "title": "[EB030073] 比較線上交易處理(OLTP)與線上分析處理(OLAP)，下列敘述哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "OLTP 設計方式為交易導向；OLAP 設計方式為主題導向"
+      },
+      {
+        "label": "B",
+        "text": "OLTP 資料可能會被刪除或覆蓋；OLAP 資料會被永久保存，以利進行比較分析"
+      },
+      {
+        "label": "C",
+        "text": "OLTP 主要使用者為業務處理人員；OLAP 主要使用者為高階決策分析人員"
+      },
+      {
+        "label": "D",
+        "text": "OLTP 主要支援決策分析；OLAP 主要支援交易處理活動"
+      }
+    ],
+    "answer": "D",
+    "explanation": "OLTP主要支援日常交易處理，而OLAP則主要支援高階決策與資料分析，選項(D)敘述相反。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030074",
+    "title": "[EB030074] 關於 ERP 系統發展的演進歷程，下列哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1960 Material Requirement Planning → 1970 Manufacturing Resource Planning → 1980Enterprise Resource Planning → 1990 Extended ERP"
+      },
+      {
+        "label": "B",
+        "text": "1960 Manufacturing Resource Planning → 1970 Material Requirement Planning → 1980Enterprise Resource Planning →1990 Extended ERP"
+      },
+      {
+        "label": "C",
+        "text": "1970 Material Requirement Planning → 1980 Manufacturing Resource Planning → 1990 Enterprise Resource Planning → 2000 Extended ERP"
+      },
+      {
+        "label": "D",
+        "text": "1970 Manufacturing Resource Planning → 1980 Material Requirement Planning → 1990 Enterprise Resource Planning → 2000 Extended ERP"
+      }
+    ],
+    "answer": "C",
+    "explanation": "ERP演進歷程為1970年代的MRP、1980年代的MRPII、1990年代的ERP，及2000年代的延伸型ERP。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030075",
+    "title": "[EB030075] 下列哪一個不是 ERP 引進的關鍵成功因素？",
+    "options": [
+      {
+        "label": "A",
+        "text": "強而有力的領導者與充足的預算"
+      },
+      {
+        "label": "B",
+        "text": "選出市場中最好的 ERP 系統"
+      },
+      {
+        "label": "C",
+        "text": "高階主管的強力支時"
+      },
+      {
+        "label": "D",
+        "text": "提供完善的訓練與變革管理"
+      }
+    ],
+    "answer": "B",
+    "explanation": "引進ERP應選擇最適合企業流程的系統，而非盲目追求市場上功能最好或最貴的系統。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030076",
+    "title": "[EB030076] 學者 Reinartz and Kumar 提出顧客關係分群來建立顧客關係，下列敘述四種關係族群所對應的關係管理方式哪一項正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "花蝴蝶:設法提高他們的獲利性，在交易時設法索取較高的費用，必要時應該放棄"
+      },
+      {
+        "label": "B",
+        "text": "忠實朋友:多多向此類的顧客促銷其他相關產品，盡可能地從顧客身上獲取利潤"
+      },
+      {
+        "label": "C",
+        "text": "陌生人:停止對他們作投資，且盡量在交易中獲取利潤"
+      },
+      {
+        "label": "D",
+        "text": "戀棧的人:在不造成顧客反感的情況下維繫他們的關係"
+      }
+    ],
+    "answer": "C",
+    "explanation": "對陌生人客群（低利潤且短存續期）的最佳策略是停止投資，並在每筆交易中盡量獲取利潤。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030077",
+    "title": "[EB030077] 若花費 300 元投放廣告能吸引一個客戶進到店裡消費，而在 10 年裡，他平均每年購買 1 件上衣，每件上衣的利潤是 250 元，請問淨顧客終身價值多少？",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 000元"
+      },
+      {
+        "label": "B",
+        "text": "2 200元"
+      },
+      {
+        "label": "C",
+        "text": "2 500元"
+      },
+      {
+        "label": "D",
+        "text": "2 800元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "淨顧客終身價值為十年總利潤（250元×10年 = 2500元）扣除獲客成本（300元），即2200元。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030078",
+    "title": "[EB030078] 在全球化動態競爭的環境下，供應鏈充滿了許多不確定性，造成了許多的問題，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "存貨成本太高"
+      },
+      {
+        "label": "B",
+        "text": "長鞭效應"
+      },
+      {
+        "label": "C",
+        "text": "反應速度太慢"
+      },
+      {
+        "label": "D",
+        "text": "訂單履行的週期時間太短"
+      }
+    ],
+    "answer": "D",
+    "explanation": "供應鏈的不確定性會導致訂單履行週期時間被「拉長」，而非變短。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030079",
+    "title": "[EB030079] 長鞭效應發生的原因主要不包括下列哪一個？",
+    "options": [
+      {
+        "label": "A",
+        "text": "訂貨前置時間太短"
+      },
+      {
+        "label": "B",
+        "text": "價格波動"
+      },
+      {
+        "label": "C",
+        "text": "批次訂購"
+      },
+      {
+        "label": "D",
+        "text": "供給短缺的預期心理"
+      }
+    ],
+    "answer": "A",
+    "explanation": "訂貨前置時間過長才會加劇長鞭效應，前置時間短反而能降低預測誤差與庫存積壓。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030080",
+    "title": "[EB030080] 關於供應鏈策略比較，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "推式供應鏈適合需求變動小，拉式供應鏈適合需求變動大"
+      },
+      {
+        "label": "B",
+        "text": "推式供應鏈易產生長鞭效應"
+      },
+      {
+        "label": "C",
+        "text": "推式供應鏈生產配送決策之驅動是靠需求，而拉式供應鏈則是靠預測"
+      },
+      {
+        "label": "D",
+        "text": "推式供應鏈生產效率高，拉式供應鏈生產效率小"
+      }
+    ],
+    "answer": "C",
+    "explanation": "推式供應鏈是依據「預測」生產，而拉式供應鏈才是依據實際「需求」來驅動生產與配送。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030081",
+    "title": "[EB030081] 零售商與供應商策略聯盟關係(Retailer Supplier Partnership RSP)，依照合作緊密度可分為下列哪些類型？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "快速回應策略"
+      },
+      {
+        "label": "B",
+        "text": "持續補貨策略"
+      },
+      {
+        "label": "C",
+        "text": "供應商管理存貨策略"
+      },
+      {
+        "label": "D",
+        "text": "零售商訂貨策略"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "RSP依緊密度主要分為快速回應(QR)、持續補貨(CR)與供應商管理存貨(VMI)三種策略。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030082",
+    "title": "[EB030082] 下列哪一個不是 META Group 提出協同商務營運模式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "生產協同商務"
+      },
+      {
+        "label": "B",
+        "text": "行銷與銷售協同商務"
+      },
+      {
+        "label": "C",
+        "text": "採購協同商務"
+      },
+      {
+        "label": "D",
+        "text": "規劃與預測協同商務"
+      }
+    ],
+    "answer": "A",
+    "explanation": "META Group提出的協同商務四領域為設計、採購、規劃與預測、以及行銷與銷售，不包含生產。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030083",
+    "title": "[EB030083] 關於行動商務的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "行動商務是指透過行動載具來執行各種不同的經濟交易活動，將買、賣商品和服務導入「隨時」與「隨地」的模式"
+      },
+      {
+        "label": "B",
+        "text": "行動商務的應用包括行動廣告、簡訊、行動搜尋引擎與行動版網站、應用程式與遊戲、QR Code 掃描、行動支付及 行動銀行等"
+      },
+      {
+        "label": "C",
+        "text": "促成行動商務快速成長的主要原因是行動裝置的普及與對行動商務的接受度高"
+      },
+      {
+        "label": "D",
+        "text": "安全性是行動商務業者贏得顧客信任的基本原則，必須在使用個人資料時，兼顧隱私保護，還好目前台灣已有專法管 理行動行銷與商務了"
+      }
+    ],
+    "answer": "D",
+    "explanation": "台灣目前尚未有單一專門管理行動行銷與商務的專法，主要仍適用個資法與消保法等一般法律。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030084",
+    "title": "[EB030084] 商業智慧(Business Intelligence BI) 是一個透過資料分析來實現商業價值的過程，含蓋範圍有下列哪些？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "資料倉儲技術"
+      },
+      {
+        "label": "B",
+        "text": "線上分析處理技術"
+      },
+      {
+        "label": "C",
+        "text": "資料探勘"
+      },
+      {
+        "label": "D",
+        "text": "知識管理"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "商業智慧(BI)的核心技術範疇主要包括資料倉儲、線上分析處理(OLAP)與資料探勘。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030085",
+    "title": "[EB030085] 下面哪一項不是 Mckinsey (2018)報告指出，國際市場對商業智慧之大數據資料分析應用提出的重點領域？",
+    "options": [
+      {
+        "label": "A",
+        "text": "顧客體驗"
+      },
+      {
+        "label": "B",
+        "text": "行銷管理"
+      },
+      {
+        "label": "C",
+        "text": "財務管理"
+      },
+      {
+        "label": "D",
+        "text": "營運管理"
+      }
+    ],
+    "answer": "C",
+    "explanation": "麥肯錫報告指出，大數據商業智慧分析的核心重點領域為顧客體驗、行銷管理與營運管理。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030086",
+    "title": "[EB030086] 商業智慧的概念是知識與商業緊密的結合，並且根據需要進行相關數據的處理和知識呈現的過程，哪一個不是常見的分析？",
+    "options": [
+      {
+        "label": "A",
+        "text": "點擊流分析"
+      },
+      {
+        "label": "B",
+        "text": "內部分析"
+      },
+      {
+        "label": "C",
+        "text": "客戶分析"
+      },
+      {
+        "label": "D",
+        "text": "供應鏈管理"
+      }
+    ],
+    "answer": "B",
+    "explanation": "常見的商業智慧分析包括點擊流、客戶與供應鏈分析等，「內部分析」非標準的BI分析類型。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030087",
+    "title": "[EB030087] Gilbert & Gordey-Hayes(1996)認為知識移轉的過程五個階段，下列哪一項正確？(1) 取得 (2) 接受 (3) 溝通 (4) 應用 (5) 同化",
+    "options": [
+      {
+        "label": "A",
+        "text": "13254"
+      },
+      {
+        "label": "B",
+        "text": "13245"
+      },
+      {
+        "label": "C",
+        "text": "13425"
+      },
+      {
+        "label": "D",
+        "text": "13452"
+      }
+    ],
+    "answer": "C",
+    "explanation": "吉爾伯特與高登提出的知識移轉順序為：取得、溝通、應用、接受、最後同化(1-3-4-2-5)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030088",
+    "title": "[EB030088] 下列哪一項不是企業在導入「企業資源規劃」(Enterprise resource planning，ERP)時，會面臨到的挑戰？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ERP 導入成本過高"
+      },
+      {
+        "label": "B",
+        "text": "ERP 會造成顧客強大的反抗"
+      },
+      {
+        "label": "C",
+        "text": "ERP 會妨害組織的策略優勢"
+      },
+      {
+        "label": "D",
+        "text": "ERP 系統與原先組織內系統的融合"
+      }
+    ],
+    "answer": "B",
+    "explanation": "ERP為企業內部管理系統，主要面臨內部員工抗拒與系統整合挑戰，而非顧客的強烈反抗。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030089",
+    "title": "[EB030089] 某公司根據預測資料來準備零組件，再根據顧客需求來進行裝配工作，此公司使用下列哪一種供應鏈方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "協同供應鏈"
+      },
+      {
+        "label": "B",
+        "text": "推式供應鏈"
+      },
+      {
+        "label": "C",
+        "text": "拉式供應鏈"
+      },
+      {
+        "label": "D",
+        "text": "推拉式供應鏈"
+      }
+    ],
+    "answer": "D",
+    "explanation": "依預測準備零件（推式）並依訂單進行組裝（拉式），屬於典型的推拉式供應鏈模式。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030090",
+    "title": "[EB030090] 關於資料倉儲(data warehouse)的特性，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "資料倉儲內容是由企業內部資料庫以及外部資料庫經由 ETL(Extract Transform Load)程序而來"
+      },
+      {
+        "label": "B",
+        "text": "為了支援多維度分析，資料倉儲的資料模式包含事實資料表( Fact Table)，以及維度資料表(Dimension Table)"
+      },
+      {
+        "label": "C",
+        "text": "資料倉儲的事實資料表( Fact Table)主要是用來記載維度屬性與衡量屬性，而維度資料表(Dimension Table)是 用來記載更詳細的維度屬性"
+      },
+      {
+        "label": "D",
+        "text": "資料倉儲依據不同部門需求建置數個較小型且分散的資料倉儲，稱之為資料市集"
+      }
+    ],
+    "answer": "D",
+    "explanation": "資料市集(Data Mart)是針對特定部門或主題所設計的資料倉儲子集，而非多個分散的倉儲。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030091",
+    "title": "[EB030091] 商店可以根據消費者的人口統計變數以及消費行為，將消費者分為高消費群、低消費群、流失顧客群等類別，上述說法是使用下列資料探勘的哪一種技術？",
+    "options": [
+      {
+        "label": "A",
+        "text": "關聯(Association)分析"
+      },
+      {
+        "label": "B",
+        "text": "分類(classification)分析"
+      },
+      {
+        "label": "C",
+        "text": "順序(Sequence)分析"
+      },
+      {
+        "label": "D",
+        "text": "分群(clustering)分析"
+      }
+    ],
+    "answer": "D",
+    "explanation": "分群(Clustering)分析是根據資料特徵的相似度，將消費者自然區分成不同特性的群體。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030092",
+    "title": "[EB030092] 關於長鞭效應(Bullwhip effect)敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "長鞭效應指產品資訊隨著供應鏈成員間的循序傳遞而產生的扭曲現象"
+      },
+      {
+        "label": "B",
+        "text": "長鞭效應形成的原因在需求預測、訂貨的前置時間過短、批次訂貨、價格波動，以及供給短缺的預期心理"
+      },
+      {
+        "label": "C",
+        "text": "長鞭效應指中上游製造廠商所面對的訂單變異遠高於實際需求的變異性"
+      },
+      {
+        "label": "D",
+        "text": "供應鏈管理系統能降低長鞭效應的影響"
+      }
+    ],
+    "answer": "B",
+    "explanation": "長鞭效應的成因之一是訂貨前置時間「過長」而非過短，前置時間長會擴大需求預測誤差。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030093",
+    "title": "[EB030093] 關於資料倉儲(data warehouse)的敘述，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "資料倉儲中事實資料表和維度資料表之間所形成的關係，稱之為資料庫綱要"
+      },
+      {
+        "label": "B",
+        "text": "多維度資料模型的綱要主要分為兩種型式:星狀綱要、雪花綱要"
+      },
+      {
+        "label": "C",
+        "text": "星狀綱要是以維度資料表為中心呈現放射狀之型式"
+      },
+      {
+        "label": "D",
+        "text": "雪花綱要具備比較低的正規化形式，可以減少資料的重複及不一致性，但是在執行時其效率比較高，因此在實務上採 用雪花綱要比較普遍"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "星狀綱要以事實資料表為中心；雪花綱要正規化程度高、查詢效率低，故實務上星狀較普遍。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030094",
+    "title": "[EB030094] 關於供應鏈(supply chain)的敘述，下列哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "SCOR 模式(Supply Chain Operation Reference)是供應鏈運作參考模式，主要流程為分析供應鏈情況，將公司績 效進行量化再與其他同業標竿公司進行比較，最後確立改進方法"
+      },
+      {
+        "label": "B",
+        "text": "供應商接收零售商的銷售資料來同步化生產與庫存活動，稱之為快速回應策略(Quick Response Strategy QR)"
+      },
+      {
+        "label": "C",
+        "text": "供應商接收零售商的銷售資料，並依據事先約定的存貨水準來出貨給零售商，稱之為供應商管理存貨略(Vender- Managed Inventory Strategy VMI)"
+      },
+      {
+        "label": "D",
+        "text": "供應商接收零售商的銷售資料，並依據事先約定的服務水準來決定商品的存貨水準與存貨政策，稱之為持續補貨策略 (Continuous Replenishment Strategy CR)"
+      }
+    ],
+    "answer": "CD",
+    "explanation": "選項(C)與(D)的定義相反：VMI是由供應商決定存貨政策，而CR是依據約定存貨水準補貨。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030095",
+    "title": "[EB030095] 關於專家系統(Expert System)的敘述，下列哪些錯誤？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "專家系統的知識庫儲存專家的內隱知識與經驗"
+      },
+      {
+        "label": "B",
+        "text": "專家系統包含擷取知識工具、知識庫、推理引擎三大元件"
+      },
+      {
+        "label": "C",
+        "text": "專家系統推理引擎可分為向前推理(Forward Chaining)與向後推理(Backward Chaining)兩種方法，前者指藉由 目標尋求支持的事實，後者指由輸入事實啟動法則再得到結論"
+      },
+      {
+        "label": "D",
+        "text": "專家系統可提供全方位跨領域的知識來解決問題"
+      }
+    ],
+    "answer": "CD",
+    "explanation": "推理引擎前/後向推理定義相反，且專家系統僅適用於特定專業領域，無法解決跨領域問題。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030096",
+    "title": "[EB030096] 導入 ERP 系統若遭遇員工抗拒，屬於哪一項管理問題？",
+    "options": [
+      {
+        "label": "A",
+        "text": "策略管理"
+      },
+      {
+        "label": "B",
+        "text": "專案規劃管理"
+      },
+      {
+        "label": "C",
+        "text": "變革管理"
+      },
+      {
+        "label": "D",
+        "text": "品質管理"
+      }
+    ],
+    "answer": "C",
+    "explanation": "引進ERP引起的員工抗拒屬於變革管理範疇，需透過教育訓練與溝通引導員工適應新流程。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030097",
+    "title": "[EB030097] NIKE 廠商在開發球鞋時，本身不參與產品設計與生產，屬於哪一種模式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "OCM"
+      },
+      {
+        "label": "B",
+        "text": "ODM"
+      },
+      {
+        "label": "C",
+        "text": "OBM"
+      },
+      {
+        "label": "D",
+        "text": "OEM"
+      }
+    ],
+    "answer": "C",
+    "explanation": "NIKE本身不參與產品設計與生產，僅專注於經營自有的品牌與行銷，屬於自有品牌(OBM)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030098",
+    "title": "[EB030098] 下列哪些是 ERP 軟體供應商？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "SAP"
+      },
+      {
+        "label": "B",
+        "text": "ORACLE"
+      },
+      {
+        "label": "C",
+        "text": "鼎新"
+      },
+      {
+        "label": "D",
+        "text": "PeopleSoft"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "SAP、Oracle、鼎新與PeopleSoft皆為市場上知名的企業資源規劃(ERP)軟體供應商。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030099",
+    "title": "[EB030099] 關於 ERP 系統的特性，下列哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "模組化"
+      },
+      {
+        "label": "B",
+        "text": "企業最佳典範"
+      },
+      {
+        "label": "C",
+        "text": "系統整合"
+      },
+      {
+        "label": "D",
+        "text": "成本低廉"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "ERP具備模組化、系統整合及導入最佳實務等特性，但其建置與維護成本高昂，非成本低廉。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030100",
+    "title": "[EB030100] 生產線根據顧客需求，接單後再生產稱之為下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ATO"
+      },
+      {
+        "label": "B",
+        "text": "BTO"
+      },
+      {
+        "label": "C",
+        "text": "CTO"
+      },
+      {
+        "label": "D",
+        "text": "GTO"
+      }
+    ],
+    "answer": "B",
+    "explanation": "BTO（Build to Order）即為接單後生產，是收到顧客訂單後才開始進行生產與裝配的模式。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030101",
+    "title": "[EB030101] 鴻海過去專注於消費性電子產品的代工，其經營模式稱為下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "OCM"
+      },
+      {
+        "label": "B",
+        "text": "ODM"
+      },
+      {
+        "label": "C",
+        "text": "OBM"
+      },
+      {
+        "label": "D",
+        "text": "OEM"
+      }
+    ],
+    "answer": "D",
+    "explanation": "鴻海專注於受託代工生產，不參與品牌與原創設計，屬於原始設備製造商（OEM）代工模式。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030102",
+    "title": "[EB030102] 下列哪些為外顯知識(explicit knowledge)？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "課堂講義"
+      },
+      {
+        "label": "B",
+        "text": "技工的修車經驗"
+      },
+      {
+        "label": "C",
+        "text": "採購流程手冊"
+      },
+      {
+        "label": "D",
+        "text": "廣告創意"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "講義與流程手冊能以文字、圖像系統化記錄與傳遞，屬於可明文化的外顯知識。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030103",
+    "title": "[EB030103] 下列哪一項不是顧客輪廓的範圍？",
+    "options": [
+      {
+        "label": "A",
+        "text": "年齡"
+      },
+      {
+        "label": "B",
+        "text": "顧客偏好"
+      },
+      {
+        "label": "C",
+        "text": "交易紀錄"
+      },
+      {
+        "label": "D",
+        "text": "信用卡帳號"
+      }
+    ],
+    "answer": "D",
+    "explanation": "顧客輪廓包含年齡、偏好與交易紀錄等特徵，信用卡帳號屬於敏感支付資訊，非輪廓分析範圍。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030104",
+    "title": "[EB030104] 累計從服務顧客所獲得利潤，扣除其服務成本，稱之為下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "顧客終身價值(customer lifetime value)"
+      },
+      {
+        "label": "B",
+        "text": "顧客發展(customer development)"
+      },
+      {
+        "label": "C",
+        "text": "顧客贏取率(customer acquisition)"
+      },
+      {
+        "label": "D",
+        "text": "顧客保留率(customer retention)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "顧客終身價值(CLV)是指企業從與顧客的長期關係中獲得的總利潤，扣除服務與獲客成本。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030105",
+    "title": "[EB030105] 線上學習的優點包含下列哪些？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "克服地理限制"
+      },
+      {
+        "label": "B",
+        "text": "若有疫情影響，可避免人際接觸"
+      },
+      {
+        "label": "C",
+        "text": "可重複觀看與複習"
+      },
+      {
+        "label": "D",
+        "text": "參與度高"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "線上學習具備跨地域、防疫及自主複習等優點，但缺乏實體互動，學生參與度通常較低。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030106",
+    "title": "[EB030106] 行動商務中，手機定位消費者位置並回饋合適的服務稱為下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "GPS(Global Positioning System)"
+      },
+      {
+        "label": "B",
+        "text": "體感科技( motion-sensitive technology)"
+      },
+      {
+        "label": "C",
+        "text": "適地性服務(location-based service)"
+      },
+      {
+        "label": "D",
+        "text": "GSM (Global System for Mobile Communications)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "適地性服務（LBS）是利用定位技術獲取使用者位置，進而提供即時且相關的個性化服務。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030107",
+    "title": "[EB030107] 透過攝影機的辨識與程式結合，讓設定好的圖片立體呈現於攝影鏡頭前，這樣的技術稱為下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "線上App"
+      },
+      {
+        "label": "B",
+        "text": "擴增實境(augmented reality)"
+      },
+      {
+        "label": "C",
+        "text": "虛擬實境(virtual reality)"
+      },
+      {
+        "label": "D",
+        "text": "模擬運算"
+      }
+    ],
+    "answer": "B",
+    "explanation": "擴增實境(AR)是將虛擬資訊或3D立體影像疊加在真實世界畫面中，進行互動的技術。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030108",
+    "title": "[EB030108] 下列哪一項不是行動商務能提供業務協助的對象？",
+    "options": [
+      {
+        "label": "A",
+        "text": "倉儲管理人員"
+      },
+      {
+        "label": "B",
+        "text": "物流配送人員"
+      },
+      {
+        "label": "C",
+        "text": "保險業務人員"
+      },
+      {
+        "label": "D",
+        "text": "遊戲體驗人員"
+      }
+    ],
+    "answer": "D",
+    "explanation": "遊戲體驗人員主要是娛樂或測試性質，不屬於行動商務直接提供業務流程支援與協助的對象。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030109",
+    "title": "[EB030109] 企業資源規劃系統 ERP(Enterprise Resource Planning System)會支援企業內部四個重要流程，下列哪一項不是在這四個重要流程裡？",
+    "options": [
+      {
+        "label": "A",
+        "text": "安全與效率流程"
+      },
+      {
+        "label": "B",
+        "text": "銷售與行銷流程"
+      },
+      {
+        "label": "C",
+        "text": "製造與生產流程"
+      },
+      {
+        "label": "D",
+        "text": "財務與會計流程"
+      }
+    ],
+    "answer": "A",
+    "explanation": "ERP核心支援銷售行銷、製造生產、財務會計與人力資源流程，不包含安全與效率流程。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030110",
+    "title": "[EB030110] 鼎新電腦認為企業在導入企業資源規劃系統 ERP(Enterprise Resource Planning System)時，有三種不同的導入模式，下列哪一種模式的敘述錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "快速導入:企業依據當前的管理或作業需求，先導入 ERP 系統的部分模組，將來如果有需要時再進行其他功能模組的 導入，也可以分散成本與風險"
+      },
+      {
+        "label": "B",
+        "text": "傳統式導入:企業所有的事業單位或部門，採用傳統應用系統，各系統各自獨立管理，依各部門主管自行決定導入時 間與功能"
+      },
+      {
+        "label": "C",
+        "text": "全面性導入:企業將現有的系統全面淘汰，直接改用全新的 ERP 系統來連結全部的事業部門或相關部門"
+      },
+      {
+        "label": "D",
+        "text": "漸進式導入:由一個事業單位或功能部門，將所需要的功能模組做一次性的導入，待其系統運作順暢後，再進行全面 性的導入"
+      }
+    ],
+    "answer": "B",
+    "explanation": "傳統式導入（各部門獨立管理舊系統）並非ERP的導入模式，而是導入前的孤島狀態。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030111",
+    "title": "[EB030111] 企業在導入企業資源規劃系統ERP(Enterprise Resource Planning System)時，往往會造成組織強大的衝擊與抗拒，下列敘述哪些正確？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "ERP 常常與組織原有的流程不同，企業必須配合最佳實務流程來修改現有的作業流程，可能帶來組織流程面的衝擊"
+      },
+      {
+        "label": "B",
+        "text": "ERP 由於僅支援各獨立的功能，無法與其他系統整合，容易引起基層操作人員難以適應"
+      },
+      {
+        "label": "C",
+        "text": "ERP 是強調中央集權控管的系統，如果企業原本是分權式組織結構與文化，可能帶來組織結構面的衝擊"
+      },
+      {
+        "label": "D",
+        "text": "ERP 引進後員工的工作方式、責任、角色都會因此而改變，可能帶來員工的抗拒"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "ERP核心價值在於跨部門「系統整合」，選項(B)稱其僅支援獨立功能且無法整合是錯誤的。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030112",
+    "title": "[EB030112] 關於供應鏈管理 SCM(Supply Chain Management System)的定義敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "讓商品的生產可以控制在最多的數量，在最快的時間配送到最遠的地點，以提高整體供應鏈系統的運行效能"
+      },
+      {
+        "label": "B",
+        "text": "一個跨組織的大型、模組化、整合的資訊系統"
+      },
+      {
+        "label": "C",
+        "text": "用來支援企業供應鏈相關活動的規劃、管理與執行，並支援供應鏈上下游成員的資訊分享與協同作業"
+      },
+      {
+        "label": "D",
+        "text": "利用一套方法來有效率地整合供應商、製造商、倉儲及零售商店"
+      }
+    ],
+    "answer": "A",
+    "explanation": "供應鏈管理追求庫存與成本的「最佳化」，而非盲目追求生產並儲存「最多數量」的商品。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030113",
+    "title": "[EB030113] 完整顧客關係管理系統 CRM(Customer Relationship Management System)的技術，應包含下列哪幾大部分？(複選)",
+    "options": [
+      {
+        "label": "A",
+        "text": "資料探勘(Data Mining)"
+      },
+      {
+        "label": "B",
+        "text": "客服中心(Call Center)"
+      },
+      {
+        "label": "C",
+        "text": "資料倉儲(Data Warehouse)"
+      },
+      {
+        "label": "D",
+        "text": "資料驗算(Data Check)"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "CRM主要技術架構包含提供客服中心的營運型CRM，以及依賴資料倉儲與探勘的分析型CRM。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030114",
+    "title": "[EB030114] 下列哪一項不是屬於商業智慧 BI(Business Intelligence)的定義敘述？",
+    "options": [
+      {
+        "label": "A",
+        "text": "是一個透過資料分析實現商業價值的過程，以幫助企業決策為目的技術及其應用"
+      },
+      {
+        "label": "B",
+        "text": "涵蓋了資料倉儲(Data Warehouse)技術、線上分析處理 OLAP (Online Analytical Processing)技術、資料探勘 (Data Mining)和知識呈現(Enterprise Reporting)技術"
+      },
+      {
+        "label": "C",
+        "text": "將企業現有的資料轉化為知識，幫助企業做出經營管理決策的工具"
+      },
+      {
+        "label": "D",
+        "text": "分屬不同國境的交易主體，通過電子商務的手段，將傳統進出口貿易中的展示、洽談和成交環節電子化"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項(D)描述的是跨境電子商務（Cross-border E-commerce）的定義，而非商業智慧。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030115",
+    "title": "[EB030115] 關於於知識工作系統的敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "利用資訊科技的技術來協助知識工作者更有效的創造新知識"
+      },
+      {
+        "label": "B",
+        "text": "提供 SSL(Secure Sockets Layer Protocol)安全通訊階層協定，來提升知識工作者的系統安全"
+      },
+      {
+        "label": "C",
+        "text": "提供文件管理能力、溝通與搜尋功能，來降低知識工作者的心力負擔"
+      },
+      {
+        "label": "D",
+        "text": "提供強大的圖表功能、分析工具、運算能力，來降低知識工作者的心力負擔"
+      }
+    ],
+    "answer": "B",
+    "explanation": "KWS旨在協助知識創造與整合，SSL為一般網路安全協定，非知識工作系統的核心特徵。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030116",
+    "title": "[EB030116] 知識工作者可以使用知識工作系統，更有效率地創造新知識，下列哪一個系統不屬於知識工作系統的定義範疇？",
+    "options": [
+      {
+        "label": "A",
+        "text": "電腦輔助設計系統"
+      },
+      {
+        "label": "B",
+        "text": "防毒軟體系統"
+      },
+      {
+        "label": "C",
+        "text": "虛擬實境系統"
+      },
+      {
+        "label": "D",
+        "text": "支援理財專員的投資組合模擬系統"
+      }
+    ],
+    "answer": "B",
+    "explanation": "防毒軟體屬於系統安全與維護工具，不屬於用以協助知識工作者創造新知識的KWS。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030117",
+    "title": "[EB030117] 知識的架構階層分成四種重要的元素，底下選項由左而右分別代表由底層到最上層的順序，下列哪一項的順序正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "資訊 → 資料 → 知識 → 智慧"
+      },
+      {
+        "label": "B",
+        "text": "資料 → 資訊 → 知識 → 智慧"
+      },
+      {
+        "label": "C",
+        "text": "智慧 → 知識 → 資訊 → 資料"
+      },
+      {
+        "label": "D",
+        "text": "資料 → 資訊 → 智慧 → 知識"
+      }
+    ],
+    "answer": "B",
+    "explanation": "DIKW金字塔的階層由底至頂依次為：資料(Data)、資訊、知識、最後是智慧(Wisdom)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030118",
+    "title": "[EB030118] 知識轉移的五階段順序，下列哪一項敘述正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "第一階段:取得(Acquisition)、第二階段:溝通(Communication)、第三階段:應用(Application)、第四階 段:同化(Assimilation)、第五階段:接受(Acceptance)"
+      },
+      {
+        "label": "B",
+        "text": "第一階段:溝通(Communication)、第二階段:取得(Acquisition)、第三階段:接受(Acceptance)、第四階 段:應用(Application)、第五階段:同化(Assimilation)"
+      },
+      {
+        "label": "C",
+        "text": "第一階段:取得(Acquisition)、第二階段:溝通(Communication)、第三階段:應用(Application)、第四階 段:接受(Acceptance)、第五階段:同化(Assimilation)"
+      },
+      {
+        "label": "D",
+        "text": "第一階段:取得(Acquisition)、第二階段:應用(Application)、第三階段:溝通(Communication)、第四階 段:同化(Assimilation)、第五階段:接受(Acceptance)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "知識轉移正確順序為：取得(Acquisition)、溝通、應用、接受、最後同化(Assimilation)。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030119",
+    "title": "[EB030119] 關於協同商務(Collaborative Commerce)的定義敘述，下列哪一項錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "協同商務的推動有助於體系下游之局部協同作業對象，用間接影響的方式，針對商品出貨階段的效能進行提升"
+      },
+      {
+        "label": "B",
+        "text": "指企業透過新的科技例如網際網路以與其他企業，包括供應商、合作夥伴企業等實行合作，達成在業務作業及決策過 程中的共享，以共同開發產品、市場、服務等，以提高企業的競爭力"
+      },
+      {
+        "label": "C",
+        "text": "是一個新的商業策略模式，可使供應鏈上的各種不同成員進行協同產品設計、行銷、物流、服務等"
+      },
+      {
+        "label": "D",
+        "text": "提高了供應鏈整體上的透明度，改善商業進行的速度，也可說是產品從頭至尾的整個流程"
+      }
+    ],
+    "answer": "A",
+    "explanation": "協同商務強調供應鏈成員間直接且全面的合作與共享，而非僅局部且間接影響出貨階段。",
+    "imageUrl": ""
+  },
+  {
+    "id": "EB030120",
+    "title": "[EB030120] 協同商務是一個新的商業策略模式，可分為四大領域，下列哪一個領域的敘述錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "採購協同商務:數家廠商或數個部門結合起來大量的購買某些產品或服務，希望能降低採購成本"
+      },
+      {
+        "label": "B",
+        "text": "設計協同商務:涵蓋一切與非連續性製造產品(Discrete Manufacture Product)及組態生產(Configured to CTO)產品"
+      },
+      {
+        "label": "C",
+        "text": "行銷／銷售協同商務:轉銷商、配銷商等通路夥伴間的協同商務，著重彼此的資訊共有用以及訂單／價格／品牌管 理...等流程的共用，並提供可供承諾的資訊"
+      },
+      {
+        "label": "D",
+        "text": "消費協同商務:針對消費者端提出的個別需求，進行預判如何解決與回覆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "協同商務四領域為設計、採購、行銷/銷售、規劃與預測，不包含消費協同商務。",
+    "imageUrl": ""
+  }
+]
