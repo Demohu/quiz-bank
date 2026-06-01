@@ -15,7 +15,7 @@ export const shuffleQuestionOptions = (q) => {
   const qCodeMatch = q.title.match(/^\[(EB\d+)\]/);
   const qCode = qCodeMatch ? qCodeMatch[1] : '';
   const NO_SHUFFLE_CODES = ['EB020019', 'EB020098', 'EB020101', 'EB030072'];
-  if (NO_SHUFFLE_CODES.includes(qCode)) {
+  if (q.noShuffle || NO_SHUFFLE_CODES.includes(qCode)) {
     return q;
   }
 
