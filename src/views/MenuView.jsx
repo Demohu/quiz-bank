@@ -161,7 +161,7 @@ export default function MenuView({ state, dispatch, isMobile, fileInputRef, hand
                       <div className="h-full bg-zinc-300 dark:bg-zinc-600" style={{ width: `${Math.max(0, catDonePercent - catMasteredPercent)}%` }} />
                     </div>
                     <div className="flex text-[10px] text-zinc-500 dark:text-zinc-400 font-semibold tracking-tight mt-1">
-                      <span className="whitespace-nowrap">已做 {catDone} / {catTotal} 題</span>
+                      <span className="whitespace-nowrap">{catDone} / {catTotal}</span>
                     </div>
                   </button>
                 );
@@ -343,7 +343,7 @@ export default function MenuView({ state, dispatch, isMobile, fileInputRef, hand
                       <div className="h-full bg-zinc-300 dark:bg-zinc-600" style={{ width: `${Math.max(0, catDonePercent - catMasteredPercent)}%` }} />
                     </div>
                     <div className="flex text-xs text-zinc-500 dark:text-zinc-400 font-medium mt-1">
-                      <span>已做 {catDone} / {catTotal} 題</span>
+                      <span>{catDone} / {catTotal}</span>
                     </div>
                   </button>
                 );
