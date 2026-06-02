@@ -57,8 +57,17 @@ export const getInitialState = () => {
 
 export const reducer = (state, action) => {
   switch (action.type) {
-    case 'LOAD_DATA':
-      return { ...state, allQuestions: mergeWithBuiltins(action.payload.parsedQuestions), errorLogs: action.payload.errors, view: 'menu' };
+    case 'LOAD_DATA': {
+      // 合併新題目到現有題庫（同標題以新版為準，不同的保留）
+      const builtinTitles_ld = new Set(BUILTIN_QUESTIONS.map(q => q.title));
+      const existingNonBuiltin = state.allQuestions.filter(q => !builtinTitles_ld.has(q.title));
+      const existingByTitle = new Map(existingNonBuiltin.map(q => [q.title, q]));
+      action.payload.parsedQuestions.forEach(q => {
+        existingByTitle.set(q.title, q);
+      });
+      const combined = Array.from(existingByTitle.values());
+      return { ...state, allQuestions: mergeWithBuiltins(combined), errorLogs: action.payload.errors, view: 'menu' };
+    }
 
     case 'UPDATE_QUESTIONS_MID_QUIZ': {
       const { parsedQuestions, errors } = action.payload;
