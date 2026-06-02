@@ -117,10 +117,14 @@ npm run build
 
 ## 🤖 如何將現有題庫 (PDF/Word) 轉換為 JSON 格式
 
-如果您手邊有現成的 PDF、Docx 等格式的題庫，可以直接將檔案上傳給常用的 AI 工具（如 ChatGPT、Claude），並附上以下的 Prompt，讓 AI 幫您自動轉換成可以匯入本系統的 JSON 格式！
+如果您手邊有題庫的 PDF、Docx 或純文字檔，您可以將文字複製下來交給 AI（如 ChatGPT、Claude 或 Gemini）來自動轉換。
+
+> [!TIP]
+> **強烈建議使用 [Google AI Studio](https://aistudio.google.com/) 或各家 AI 的開發者後台（Playground）來進行轉換！**
+> 因為一般的手機 App 或網頁版 AI 聊天機器人（如 ChatGPT 免費版）為了節省資源，通常會有嚴格的「輸出長度限制（Token Limit）」，如果一次轉換 50 題，JSON 很容易在中間被截斷導致格式錯誤。而使用 Google AI Studio 等開發者工具，可以確保 AI 一次性輸出完整的 JSON 格式檔案。
 
 ### AI 轉換 Prompt 範本
-請複製以下內容並連同題庫檔案發送給 AI：
+請複製以下提示詞與題庫檔案發送給 AI：
 
 ```text
 你好！我有一份題庫檔案（如附件），請幫我將這份檔案中的所有選擇題，轉換成特定的 JSON 格式。
