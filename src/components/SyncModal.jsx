@@ -1,4 +1,5 @@
 import React from 'react';
+import { createPortal } from 'react-dom';
 import { IconCloud, IconEye, IconEyeOff, IconUploadFile, IconDownload } from './Icons';
 
 const SyncModal = ({
@@ -24,7 +25,7 @@ const SyncModal = ({
   if (!showSyncModal) return null;
 
   if (isMobile) {
-    return (
+    return createPortal(
       <div className="fixed inset-0 overflow-hidden bg-slate-900/40 backdrop-blur-sm flex items-center justify-center z-50 p-4 ios-font touch-none" onClick={closeSyncModal}>
         <div className="rounded-2xl max-w-sm w-full max-h-[90vh] overflow-y-auto p-5 border border-black/[0.06] overscroll-contain" style={{backgroundColor: '#ffffff'}} onClick={e => e.stopPropagation()}>
           <div className="flex items-center gap-3 mb-5">
@@ -100,11 +101,11 @@ const SyncModal = ({
           </div>
         </div>
       </div>
-    );
+    , document.body);
   }
 
   // Desktop version
-  return (
+  return createPortal(
     <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50 p-4" onClick={closeSyncModal}>
       <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full max-h-[90vh] overflow-y-auto p-6" onClick={e => e.stopPropagation()}>
         <div className="flex items-center gap-3 mb-6">
@@ -180,7 +181,7 @@ const SyncModal = ({
         </div>
       </div>
     </div>
-  );
+  , document.body);
 };
 
 export default SyncModal;

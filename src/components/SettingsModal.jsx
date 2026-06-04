@@ -1,4 +1,5 @@
 import React from 'react';
+import { createPortal } from 'react-dom';
 import { IconSettings, IconCloud, IconXCircle, IconUploadCloud, IconPlus, IconMinus } from './Icons';
 
 export default function SettingsModal({ 
@@ -26,7 +27,7 @@ export default function SettingsModal({
     dispatch({ type: 'SET_QUESTIONS_PER_QUIZ', payload: newVal });
   };
 
-  return (
+  return createPortal(
     <div className="fixed inset-0 z-50 flex justify-center items-end sm:items-center p-0 sm:p-4 pb-0 bg-black/40 backdrop-blur-sm sm:animate-in sm:fade-in duration-200" onClick={onClose}>
       <div 
         className="w-full sm:max-w-md bg-white dark:bg-zinc-900 rounded-t-[32px] sm:rounded-[32px] shadow-2xl flex flex-col max-h-[90vh] sm:max-h-[85vh] animate-in slide-in-from-bottom-full sm:slide-in-from-bottom-8 sm:zoom-in-95 duration-300"
@@ -108,5 +109,5 @@ export default function SettingsModal({
         </div>
       </div>
     </div>
-  );
+  , document.body);
 }
