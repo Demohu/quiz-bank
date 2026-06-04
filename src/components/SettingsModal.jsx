@@ -100,7 +100,7 @@ export default function SettingsModal({
                   <div className="flex items-center gap-2 text-zinc-400 group-hover:text-zinc-900 dark:group-hover:text-white transition-colors">
                     <IconUploadCloud size={18} />
                   </div>
-                  <input type="file" ref={fileInputRef} onChange={(e) => { handleFileUpload(e); onClose(); }} accept=".json,.txt" className="hidden" />
+                  <input type="file" ref={fileInputRef} multiple onChange={(e) => { handleFileUpload(e); onClose(); }} accept=".json,.txt" className="hidden" />
                 </label>
               </div>
             </div>
