@@ -208,6 +208,17 @@ export default function MenuView({ state, dispatch, isMobile, fileInputRef, hand
             <button onClick={handleResetStats} className="w-full text-zinc-500 hover:text-zinc-900 dark:text-zinc-400 hover:dark:text-zinc-50 font-bold py-3 flex items-center justify-center gap-1.5 text-xs transition-colors"><IconTrash2 size={14}/> 歸零所有紀錄</button>
           </div>
         </div>
+        <SettingsModal 
+          show={showSettingsModal} 
+          onClose={() => setShowSettingsModal(false)}
+          state={state}
+          dispatch={dispatch}
+          fileInputRef={fileInputRef}
+          handleFileUpload={handleFileUpload}
+          onOpenSyncModal={() => setShowSyncModal(true)}
+          autoSync={autoSync}
+          syncGistId={syncGistId}
+        />
         {renderSyncModal()}
       </div>
     );
