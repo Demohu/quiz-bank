@@ -160,7 +160,7 @@ export default function QuizView({ state, dispatch, isMobile, quizFileInputRef, 
           {state.hasAnswered ? (
             <>
               <div className={`flex items-center gap-2 font-black text-[15px] ${state.selectedOption === currentQ.answer ? 'text-emerald-600 dark:text-emerald-400' : state.selectedOption === 'skipped' ? 'text-zinc-600 dark:text-zinc-400' : 'text-zinc-900 dark:text-zinc-100'}`}>
-                <span>{state.selectedOption === currentQ.answer ? '答對了 +2 分' : state.selectedOption === 'skipped' ? '已略過 (+0 分)' : `正解：${currentQ.answer.split('').join(', ')}`}</span>
+                <span>{state.selectedOption === currentQ.answer ? `答對了 +${state.scoringRules?.correct ?? 1} 分` : state.selectedOption === 'skipped' ? `已略過 (+${state.scoringRules?.skipped ?? 0} 分)` : `正解：${currentQ.answer.split('').join(', ')} (${state.scoringRules?.wrong ?? 0} 分)`}</span>
               </div>
               <button onClick={() => { setEditingExp(false); dispatch({ type: 'NEXT_QUESTION' }); }}
                 className="bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 active:scale-95 hover:scale-105 transition-all shadow-md font-bold text-sm px-6 py-3.5 rounded-xl flex items-center gap-2">
@@ -343,7 +343,7 @@ export default function QuizView({ state, dispatch, isMobile, quizFileInputRef, 
           {state.hasAnswered ? (
             <div className="w-full flex items-center justify-between">
               <div className={`font-black text-lg ${state.selectedOption === currentQ.answer ? 'text-emerald-600 dark:text-emerald-400' : state.selectedOption === 'skipped' ? 'text-zinc-500 dark:text-zinc-400' : 'text-zinc-900 dark:text-zinc-100'}`}>
-                {state.selectedOption === currentQ.answer ? '答對了！+2 分' : state.selectedOption === 'skipped' ? '已略過此題 (+0 分)' : `正確答案是 (${currentQ.answer.split('').join(', ')})  -0.5 分`}
+                {state.selectedOption === currentQ.answer ? `答對了！+${state.scoringRules?.correct ?? 1} 分` : state.selectedOption === 'skipped' ? `已略過此題 (+${state.scoringRules?.skipped ?? 0} 分)` : `正確答案是 (${currentQ.answer.split('').join(', ')}) ${state.scoringRules?.wrong ?? 0} 分`}
               </div>
               <button onClick={() => { setEditingExp(false); dispatch({ type: 'NEXT_QUESTION' }); }} className="flex items-center gap-2 bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 px-8 py-3.5 rounded-xl font-bold shadow-md active:scale-95 hover:scale-105 transition-all text-base">
                 {state.currentIndex < state.currentBatch.length - 1 ? '下一題' : '查看結果'}
