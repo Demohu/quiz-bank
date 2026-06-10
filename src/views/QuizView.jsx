@@ -7,6 +7,8 @@ import { getSafeWeight } from '../utils/ankiAlgorithm';
 
 export default function QuizView({ state, dispatch, isMobile, quizFileInputRef, handleQuizFileUpload, handleReturnMenu, handleQuizUpdateClick }) {
   const [showStats, setShowStats] = useState(false);
+  const [editingExp, setEditingExp] = useState(false);
+  const [expText, setExpText] = useState("");
 
   const currentQ = state.currentBatch[state.currentIndex];
   const qStats = state.stats[currentQ?.title] || { totalCorrect: 0, totalWrong: 0, currentWeight: 100, streak: 0 };
@@ -102,24 +104,49 @@ export default function QuizView({ state, dispatch, isMobile, quizFileInputRef, 
 
           {state.hasAnswered && state.selectedOption !== currentQ.answer && (
             <div className="rounded-[20px] p-5 mt-4 bg-zinc-100 dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-left shadow-inner">
-              <div className="flex items-center gap-2 mb-3">
-                <IconAlertTriangle size={16} className="text-zinc-700 dark:text-zinc-300" />
-                <span className="text-[14px] font-black text-zinc-900 dark:text-zinc-50">
-                  {state.selectedOption === 'skipped' ? '題目解析' : '題目討論'}
-                </span>
+              <div className="flex items-center justify-between mb-3">
+                <div className="flex items-center gap-2">
+                  <IconAlertTriangle size={16} className="text-zinc-700 dark:text-zinc-300" />
+                  <span className="text-[14px] font-black text-zinc-900 dark:text-zinc-50">
+                    {state.selectedOption === 'skipped' ? '題目解析' : '題目討論'}
+                  </span>
+                </div>
+                <button 
+                  onClick={() => {
+                    if (editingExp) {
+                      dispatch({ type: 'UPDATE_QUESTION_EXPLANATION', payload: { title: currentQ.title, explanation: expText } });
+                      setEditingExp(false);
+                    } else {
+                      setExpText(currentQ.explanation || "");
+                      setEditingExp(true);
+                    }
+                  }}
+                  className="text-xs font-bold px-3 py-1 rounded bg-zinc-200 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 active:scale-95 transition-all"
+                >
+                  {editingExp ? '💾 儲存' : '📝 編輯'}
+                </button>
               </div>
               <div className="text-[13px] font-bold tracking-tight mb-3 text-zinc-600 dark:text-zinc-400">
                 您的答案：<span className="text-zinc-900 dark:text-zinc-100">{state.selectedOption === 'skipped' ? '已略過' : state.selectedOption.split('').join(', ')}</span>
                 <span className="mx-2 opacity-30">|</span>
                 正確答案：<span className="text-emerald-600 dark:text-emerald-400">{currentQ.answer.split('').join(', ')}</span>
               </div>
-              {state.selectedOption !== currentQ.answer && currentQ.explanation && currentQ.explanation.trim() && (
-                <>
-                  <div className="border-t border-zinc-300 dark:border-zinc-600 my-3"></div>
+              <div className="border-t border-zinc-300 dark:border-zinc-600 my-3"></div>
+              {editingExp ? (
+                <textarea
+                  value={expText}
+                  onChange={(e) => setExpText(e.target.value)}
+                  className="w-full min-h-[100px] p-3 text-[13px] font-semibold text-zinc-700 dark:text-zinc-300 bg-white dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-zinc-400"
+                  placeholder="在此輸入新的解析..."
+                />
+              ) : (
+                (currentQ.explanation && currentQ.explanation.trim()) ? (
                   <p className="text-[13px] font-semibold leading-relaxed whitespace-pre-wrap tracking-tight text-zinc-700 dark:text-zinc-300">
                     {currentQ.explanation.trim()}
                   </p>
-                </>
+                ) : (
+                  <p className="text-[13px] font-semibold text-zinc-400 dark:text-zinc-500 italic">尚無解析</p>
+                )
               )}
             </div>
           )}
@@ -133,9 +160,9 @@ export default function QuizView({ state, dispatch, isMobile, quizFileInputRef, 
           {state.hasAnswered ? (
             <>
               <div className={`flex items-center gap-2 font-black text-[15px] ${state.selectedOption === currentQ.answer ? 'text-emerald-600 dark:text-emerald-400' : state.selectedOption === 'skipped' ? 'text-zinc-600 dark:text-zinc-400' : 'text-zinc-900 dark:text-zinc-100'}`}>
-                <span>{state.selectedOption === currentQ.answer ? '答對了 +2 分' : state.selectedOption === 'skipped' ? '已略過此題 (+0 分)' : `正解：${currentQ.answer.split('').join(', ')}`}</span>
+                <span>{state.selectedOption === currentQ.answer ? '答對了 +2 分' : state.selectedOption === 'skipped' ? '已略過 (+0 分)' : `正解：${currentQ.answer.split('').join(', ')}`}</span>
               </div>
-              <button onClick={() => dispatch({ type: 'NEXT_QUESTION' })}
+              <button onClick={() => { setEditingExp(false); dispatch({ type: 'NEXT_QUESTION' }); }}
                 className="bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 active:scale-95 hover:scale-105 transition-all shadow-md font-bold text-sm px-6 py-3.5 rounded-xl flex items-center gap-2">
                 <span>{state.currentIndex < state.currentBatch.length - 1 ? '下一題' : '查看結果'}</span>
                 <IconArrowRight size={18} />
@@ -266,22 +293,47 @@ export default function QuizView({ state, dispatch, isMobile, quizFileInputRef, 
 
           {state.hasAnswered && state.selectedOption !== currentQ.answer && (
             <div className="mt-8 p-6 bg-zinc-100 dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 rounded-[24px] text-left shadow-inner">
-              <div className="flex items-center gap-2 font-black mb-4 text-zinc-900 dark:text-zinc-50">
-                <IconAlertTriangle size={20} />
-                <span>{state.selectedOption === 'skipped' ? '題目解析' : '錯題檢討'}</span>
+              <div className="flex items-center justify-between mb-4">
+                <div className="flex items-center gap-2 font-black text-zinc-900 dark:text-zinc-50">
+                  <IconAlertTriangle size={20} />
+                  <span>{state.selectedOption === 'skipped' ? '題目解析' : '錯題檢討'}</span>
+                </div>
+                <button 
+                  onClick={() => {
+                    if (editingExp) {
+                      dispatch({ type: 'UPDATE_QUESTION_EXPLANATION', payload: { title: currentQ.title, explanation: expText } });
+                      setEditingExp(false);
+                    } else {
+                      setExpText(currentQ.explanation || "");
+                      setEditingExp(true);
+                    }
+                  }}
+                  className="text-sm font-bold px-4 py-2 rounded-lg bg-zinc-200 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 hover:bg-zinc-300 dark:hover:bg-zinc-600 active:scale-95 transition-all"
+                >
+                  {editingExp ? '💾 儲存解析' : '📝 編輯解析'}
+                </button>
               </div>
               <div className="text-base text-zinc-600 dark:text-zinc-400 mb-3 font-bold">
                 您的答案：<span className="text-zinc-900 dark:text-zinc-100 font-black">{state.selectedOption === 'skipped' ? '已略過' : state.selectedOption.split('').join(', ')}</span>
                 <span className="mx-3 opacity-30">|</span>
                 正確答案：<span className="text-emerald-600 dark:text-emerald-400 font-black">{currentQ.answer.split('').join(', ')}</span>
               </div>
-              {state.selectedOption !== currentQ.answer && currentQ.explanation && currentQ.explanation.trim() && (
-                <>
-                  <div className="border-t border-zinc-300 dark:border-zinc-600 my-4"></div>
+              <div className="border-t border-zinc-300 dark:border-zinc-600 my-4"></div>
+              {editingExp ? (
+                <textarea
+                  value={expText}
+                  onChange={(e) => setExpText(e.target.value)}
+                  className="w-full min-h-[120px] p-4 text-sm font-semibold text-zinc-700 dark:text-zinc-300 bg-white dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-600 rounded-xl focus:outline-none focus:ring-2 focus:ring-zinc-400"
+                  placeholder="在此輸入新的解析..."
+                />
+              ) : (
+                (currentQ.explanation && currentQ.explanation.trim()) ? (
                   <p className="text-sm font-semibold text-zinc-700 dark:text-zinc-300 leading-relaxed whitespace-pre-wrap">
                     {currentQ.explanation.trim()}
                   </p>
-                </>
+                ) : (
+                  <p className="text-sm font-semibold text-zinc-400 dark:text-zinc-500 italic">尚無解析</p>
+                )
               )}
             </div>
           )}
@@ -293,7 +345,7 @@ export default function QuizView({ state, dispatch, isMobile, quizFileInputRef, 
               <div className={`font-black text-lg ${state.selectedOption === currentQ.answer ? 'text-emerald-600 dark:text-emerald-400' : state.selectedOption === 'skipped' ? 'text-zinc-500 dark:text-zinc-400' : 'text-zinc-900 dark:text-zinc-100'}`}>
                 {state.selectedOption === currentQ.answer ? '答對了！+2 分' : state.selectedOption === 'skipped' ? '已略過此題 (+0 分)' : `正確答案是 (${currentQ.answer.split('').join(', ')})  -0.5 分`}
               </div>
-              <button onClick={() => dispatch({ type: 'NEXT_QUESTION' })} className="flex items-center gap-2 bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 px-8 py-3.5 rounded-xl font-bold shadow-md active:scale-95 hover:scale-105 transition-all text-base">
+              <button onClick={() => { setEditingExp(false); dispatch({ type: 'NEXT_QUESTION' }); }} className="flex items-center gap-2 bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 px-8 py-3.5 rounded-xl font-bold shadow-md active:scale-95 hover:scale-105 transition-all text-base">
                 {state.currentIndex < state.currentBatch.length - 1 ? '下一題' : '查看結果'}
                 <span className="text-xs font-mono opacity-60 hidden sm:inline">[Space]</span>
                 <IconArrowRight size={20} />

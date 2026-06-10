@@ -69,6 +69,29 @@ export const reducer = (state, action) => {
       return { ...state, allQuestions: mergeWithBuiltins(combined), errorLogs: action.payload.errors, view: 'menu' };
     }
 
+    case 'UPDATE_QUESTION_EXPLANATION': {
+      const { title, explanation } = action.payload;
+      
+      const newAllQuestions = state.allQuestions.map(q => 
+        q.title === title ? { ...q, explanation } : q
+      );
+
+      const newCurrentBatch = state.currentBatch.map(q => 
+        q.title === title ? { ...q, explanation } : q
+      );
+
+      localStorage.setItem('anki_all_questions', JSON.stringify(newAllQuestions));
+      if (state.currentBatch.length > 0) {
+        localStorage.setItem('anki_batch', JSON.stringify(newCurrentBatch));
+      }
+
+      return {
+        ...state,
+        allQuestions: newAllQuestions,
+        currentBatch: newCurrentBatch
+      };
+    }
+
     case 'UPDATE_QUESTIONS_MID_QUIZ': {
       const { parsedQuestions, errors } = action.payload;
       const newAllQuestions = mergeWithBuiltins(parsedQuestions);

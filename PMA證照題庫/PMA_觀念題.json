@@ -1,0 +1,1662 @@
+[
+  {
+    "title": "1. 下列有關「專案」（ Project） 的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案是指為了創造出獨一無二的產品、服務或成果所做暫時性的努力。"
+      },
+      {
+        "label": "B",
+        "text": "專案與日常營運有共同性，都是持續性、重複性的工作。"
+      },
+      {
+        "label": "C",
+        "text": "專案係指特殊而有限的任務，或由一群具相互關聯性的工作所共同組合起來的任務，而該任務是以獲得獨特的產品、服務或成果為目標。"
+      },
+      {
+        "label": "D",
+        "text": "專案是靠人來完成，受到有限資源的限制，必須經過規劃、執行和監控的過程。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "選項『專案與日常營運有共同性,都是持續性、重複性的工作。』不正確，專案具備暫時性與獨特性，日常營運才是持續性與重複性的。"
+  },
+  {
+    "title": "2. 專案管理的知識中，「硬技術」（ Hard Skill）不包含下列哪一項？",
+    "options": [
+      {
+        "label": "A",
+        "text": "成本分析。"
+      },
+      {
+        "label": "B",
+        "text": "衝突化解。"
+      },
+      {
+        "label": "C",
+        "text": "時程規劃。"
+      },
+      {
+        "label": "D",
+        "text": "過程設計。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "選項『衝突化解。』屬於人際關係與團隊管理的軟技能 (Soft Skill)。"
+  },
+  {
+    "title": "3. 下列何者不是「專案」（ Project）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "新產品研發。"
+      },
+      {
+        "label": "B",
+        "text": "公司擴廠。"
+      },
+      {
+        "label": "C",
+        "text": "超商經營。"
+      },
+      {
+        "label": "D",
+        "text": "舉辦結婚典禮。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『超商經營。』屬於持續性、重複性的日常營運，非暫時性的專案。"
+  },
+  {
+    "title": "4. 下列何者不是美國專案管理學會（ Project Management Institute, PMI）所推出的標準？",
+    "options": [
+      {
+        "label": "A",
+        "text": "計畫管理標準（ The Standard for Program Management）。"
+      },
+      {
+        "label": "B",
+        "text": "組合管理標準（ The Standard for Portfolio Management）。"
+      },
+      {
+        "label": "C",
+        "text": "能力成熟度整合模式（ Capability Maturity Model – Integrated, CMMI）。"
+      },
+      {
+        "label": "D",
+        "text": "組織專案管理成熟度模式（ Organizational Project Management Maturity Model, OPM3）。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『能力成熟度整合模式(Capability Maturity Model - Integrated, CMMI)』是由美國卡內基美隆大學軟體工程學院 (SEI) 發展，非 PMI 推出。"
+  },
+  {
+    "title": "7. 企業環境因素會影響、限制、或指導專案之進行，下列何者不是企業環境因素？",
+    "options": [
+      {
+        "label": "A",
+        "text": "組織結構。"
+      },
+      {
+        "label": "B",
+        "text": "組織文化。"
+      },
+      {
+        "label": "C",
+        "text": "組織過程資產。"
+      },
+      {
+        "label": "D",
+        "text": "組織專案管理成熟度。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『組織過程資產。』屬於組織內部累積的知識與文件 (OPA)，與企業環境因素 (EEF) 在 PMBOK 中被歸類為兩個不同的輸入項。"
+  },
+  {
+    "title": "8. 下列何者不是「矩陣型組織」（ Matrix Organization）的特性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "功能部門掌握專門技術及資源，專案經理必須透過功能經理協調，借調相關的技術與資源。"
+      },
+      {
+        "label": "B",
+        "text": "納入專案的成員不僅在原有的工作領域學習，保持固有的專業技能，讓功能專家之間更易於溝通。"
+      },
+      {
+        "label": "C",
+        "text": "專案經理與功能經理共同負責專案的成敗。"
+      },
+      {
+        "label": "D",
+        "text": "當專案人員的任務執行完畢或專案完成，即回到原有的功能部門。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『專案經理與功能經理共同負責專案的成敗。』不完全正確，專案成敗的最終責任歸屬於專案經理。"
+  },
+  {
+    "title": "9. 下列有關「專案與組織關係」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案需協調多數人、單位與組織的資源及工作成果。"
+      },
+      {
+        "label": "B",
+        "text": "主要效益來自合約的組織及以專案來管理的組織，較適合選擇專案型組織。"
+      },
+      {
+        "label": "C",
+        "text": "組織的結構會影響專案經理對資源的使用。"
+      },
+      {
+        "label": "D",
+        "text": "組織的文化不會影響專案的進行。 OPM3）。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『組織的文化不會影響專案的進行。』不正確，組織文化屬於企業環境因素（EEF），會強烈影響專案的進行與決策。"
+  },
+  {
+    "title": "10. 下列有關「弱矩陣型組織」（ Weak Matrix Organization）的敘述，何者正確？",
+    "noShuffle": true,
+    "options": [
+      {
+        "label": "A",
+        "text": "所有的預算管理以專案經理為主。"
+      },
+      {
+        "label": "B",
+        "text": "功能經理的權限較高。"
+      },
+      {
+        "label": "C",
+        "text": "專案經理和行政幕僚都是全職。"
+      },
+      {
+        "label": "D",
+        "text": "以上皆是。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在弱矩陣型組織中，選項『功能經理的權限較高。』是正確的，專案經理的角色較偏向協調者或催辦者。"
+  },
+  {
+    "title": "11. 下列何者不屬於「專案經理」的基本職責？",
+    "options": [
+      {
+        "label": "A",
+        "text": "規劃專案活動、任務及最終結果，包含分解、排程、預算、協調任務及分配資源。"
+      },
+      {
+        "label": "B",
+        "text": "處理危機及解決衝突。"
+      },
+      {
+        "label": "C",
+        "text": "溝通及整合功能經理、合約商、顧問、使用者及上一層管理者間之意見。"
+      },
+      {
+        "label": "D",
+        "text": "提供專案團隊成員財務上的協助。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『提供專案團隊成員財務上的協助。』不屬於專案經理的職責，團隊成員的個人財務並非專案管理的範疇。"
+  },
+  {
+    "title": "12. 「矩陣型組織」有強、平衡、弱矩陣之分，若功能經理所得到之授權強於專案經理，稱為：",
+    "noShuffle": true,
+    "options": [
+      {
+        "label": "A",
+        "text": "強矩陣型組織。"
+      },
+      {
+        "label": "B",
+        "text": "平衡矩陣型組織。"
+      },
+      {
+        "label": "C",
+        "text": "弱矩陣型組織。"
+      },
+      {
+        "label": "D",
+        "text": "以上皆是。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "功能經理權力大於專案經理的組織結構為選項『弱矩陣型組織。』。"
+  },
+  {
+    "title": "13. 下列哪一角色通常視為專案團隊成員，但不會納入在專案管理辦公室中？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案助理。"
+      },
+      {
+        "label": "B",
+        "text": "功能經理。"
+      },
+      {
+        "label": "C",
+        "text": "合約管理者。"
+      },
+      {
+        "label": "D",
+        "text": "功能部門技術代表。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "選項『功能部門技術代表。』通常隸屬於各自的功能部門，雖然參與專案，但不會編制在專案管理辦公室 (PMO) 內。"
+  },
+  {
+    "title": "14. 下列何者不是「專案贊助者」的任務？",
+    "options": [
+      {
+        "label": "A",
+        "text": "清楚提出組織願景，並界定專案經理與其他管理者的職權。"
+      },
+      {
+        "label": "B",
+        "text": "建立解決衝突的機制與設定任務優先順序。"
+      },
+      {
+        "label": "C",
+        "text": "對專案管理團隊提供目標方向。"
+      },
+      {
+        "label": "D",
+        "text": "建立專案管理資訊系統的利用程序、協助確認任務在控制中、建立成本帳戶、預算估算。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『建立專案管理資訊系統的利用程序、協助確認任務在控制中、建立成本帳戶、預算估算。』屬於專案經理及其管理團隊的日常執行與控制職責，非贊助者的任務。"
+  },
+  {
+    "title": "15. 「辨識利害關係人」（ Identify Stakeholders）過程是屬於下列哪一「知識領域」（ Knowledge Area）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "範疇管理（ Scope Management）。"
+      },
+      {
+        "label": "B",
+        "text": "溝通管理（ Communication Management）。"
+      },
+      {
+        "label": "C",
+        "text": "利害關係人管理（ Stakeholder Management）。"
+      },
+      {
+        "label": "D",
+        "text": "整合管理（ Integration Management）。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "在 PMBOK 中，「辨識利害關係人」被歸類在選項『利害關係人管理(Stakeholder Management)。』知識領域。"
+  },
+  {
+    "title": "16. 下列何者不是專案章程中「資源需求概述」的內容？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案經理及其權責。"
+      },
+      {
+        "label": "B",
+        "text": "參與專案的功能單位。"
+      },
+      {
+        "label": "C",
+        "text": "預算摘要。"
+      },
+      {
+        "label": "D",
+        "text": "假設狀況與限制條件。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『假設狀況與限制條件。』在專案章程中通常是一個獨立的段落，不屬於「資源需求」的範疇。"
+  },
+  {
+    "title": "17. 下列關於專案「起始過程」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "起始過程主要是「確認一個專案應開始進行或進入另一個階段，並獲得執行此專案或階段的承諾」。"
+      },
+      {
+        "label": "B",
+        "text": "在起始過程中，啟動專案首先應從組織整體環境和策略規劃角度來考慮。"
+      },
+      {
+        "label": "C",
+        "text": "它最主要的產出是「專案章程」（ Project Charter）。"
+      },
+      {
+        "label": "D",
+        "text": "「利害關係人登錄表」（ Stakeholder Register）不是此過程的產出。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『「利害關係人登錄表」(Stakeholder Register)不是此過程的產出。』不正確。起始過程群組的兩大產出就是「專案章程」與「利害關係人登錄表」。"
+  },
+  {
+    "title": "19. 下列有關「專案選擇」（ Project Selection）的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "組織受限於資源的可用性，無法所有專案都照單全收。"
+      },
+      {
+        "label": "B",
+        "text": "如何從一堆具有不確定性的專案中，挑出值得做的專案，是具有高度挑戰性的。"
+      },
+      {
+        "label": "C",
+        "text": "企業以獲利為目的，專案多多益善，專案數目越多愈好。"
+      },
+      {
+        "label": "D",
+        "text": "專案選擇模型可以幫助高階主管制定決策。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『企業以獲利為目的,專案多多益善,專案數目越多愈好。』不正確。資源是有限的，專案過多會導致資源分散與失焦，應選擇最具戰略價值的專案。"
+  },
+  {
+    "title": "21. 下列何者指的是「辨識所有受專案影響的個人或組織，並用文件記錄有關他們的利益、參與及影響專案成功等相關資訊的過程」？",
+    "options": [
+      {
+        "label": "A",
+        "text": "發展專案章程。"
+      },
+      {
+        "label": "B",
+        "text": "辨識利害關係人。"
+      },
+      {
+        "label": "C",
+        "text": "蒐集需求。"
+      },
+      {
+        "label": "D",
+        "text": "辨識風險。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "題幹描述的定義即為選項『辨識利害關係人。』過程的核心目的。"
+  },
+  {
+    "title": "22. 下列關於專案「專案章程」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案章程是一份專案正式成立的文件。"
+      },
+      {
+        "label": "B",
+        "text": "專案章程授權專案經理在專案活動中，有效運用組織資源，以達成專案目標。"
+      },
+      {
+        "label": "C",
+        "text": "專案章程的撰寫通常由專案發起者或贊助者親自操刀。"
+      },
+      {
+        "label": "D",
+        "text": "專案章程應清楚說明專案最終要達成的目標。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『專案章程的撰寫通常由專案發起者或贊助者親自操刀。』不正確。贊助者負責簽署與授權，但實際撰寫多由專案經理代為草擬。"
+  },
+  {
+    "title": "23. 「本案工作時數不得違反勞工安全衛生法之規定」會出現在「專案章程」的哪一部分？",
+    "options": [
+      {
+        "label": "A",
+        "text": "交付標的。"
+      },
+      {
+        "label": "B",
+        "text": "參與部門。"
+      },
+      {
+        "label": "C",
+        "text": "假設狀況。"
+      },
+      {
+        "label": "D",
+        "text": "限制條件。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "法規要求屬於對專案執行的制約，故應列在選項『限制條件。』之中。"
+  },
+  {
+    "title": "24. 專案經理已與專案團隊完成規劃專案的活動關係，請問接下來的工作應該為：",
+    "options": [
+      {
+        "label": "A",
+        "text": "定義範疇。"
+      },
+      {
+        "label": "B",
+        "text": "估算活動資源。"
+      },
+      {
+        "label": "C",
+        "text": "定義活動。"
+      },
+      {
+        "label": "D",
+        "text": "發展時程。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在「排序活動」（活動關係）完成後，接續的步驟通常是選項『估算活動資源。』或「估算活動期程」，最後才能「發展時程」。"
+  },
+  {
+    "title": "25. 專案管理包含十大知識領域，當進行建立「工作分解結構」（ Work Breakdown Structure， WBS）時，會用到哪一項知識領域？",
+    "options": [
+      {
+        "label": "A",
+        "text": "時間管理（ Time Management）。"
+      },
+      {
+        "label": "B",
+        "text": "範疇管理（ Scope Management）。"
+      },
+      {
+        "label": "C",
+        "text": "成本管理（ Cost Management）。"
+      },
+      {
+        "label": "D",
+        "text": "品質管理（ Quality Management）。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "建立 WBS 的目的是將專案交付標的向下分解，屬於選項『範疇管理(Scope Management)。』的範疇。"
+  },
+  {
+    "title": "26. 下列何者不是「專案範疇規劃」的過程？",
+    "options": [
+      {
+        "label": "A",
+        "text": "發展專案範疇聲明。"
+      },
+      {
+        "label": "B",
+        "text": "蒐集需求。"
+      },
+      {
+        "label": "C",
+        "text": "定義範疇。"
+      },
+      {
+        "label": "D",
+        "text": "建立工作分解結構。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "專案範疇規劃的子過程包含：規劃範疇管理、蒐集需求、定義範疇、建立WBS。選項『發展專案範疇聲明。』是「定義範疇」的產出物，而非一個獨立過程。"
+  },
+  {
+    "title": "27. 下列有關「權責指派矩陣」中專案成員工作權責分類，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "P 表示主要負責人。"
+      },
+      {
+        "label": "B",
+        "text": "S 表示次要負責人。"
+      },
+      {
+        "label": "C",
+        "text": "N 表示不須告知。"
+      },
+      {
+        "label": "D",
+        "text": "A 表示必須交付批准。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "一般常見的權責指派矩陣為 RACI，若依據其他變體如 PARIS 模型，選項『N表示不須告知。』屬於無效的分類定義（通常溝通需要明確對象，不會特別標記不須告知）。"
+  },
+  {
+    "title": "28. 下列有關「專案規劃」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案規劃時應考慮十大知識領域。"
+      },
+      {
+        "label": "B",
+        "text": "專案管理計畫書是整合各知識領域規劃的成果而成的。"
+      },
+      {
+        "label": "C",
+        "text": "各知識領域的規劃幾乎是同步進行的。"
+      },
+      {
+        "label": "D",
+        "text": "各知識領域的規劃不會互相影響。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『各知識領域的規劃不會互相影響。』不正確。範疇、時程、成本等知識領域之間存在強烈連動性，任何一項變更都會牽動其他領域。"
+  },
+  {
+    "title": "29. 下列有關專案「規劃過程群組」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "是指「設計一套能讓專案據以執行的計畫，使專案能達成所設定之目標」的過程。"
+      },
+      {
+        "label": "B",
+        "text": "在規劃過程群組中，要先清楚定義出專案工作範圍。"
+      },
+      {
+        "label": "C",
+        "text": "最主要的產出是「專案管理計畫書」，作為後續專案工作執行的依據及成效控制的基準。"
+      },
+      {
+        "label": "D",
+        "text": "是指「運用人力及其他資源，共同去完成預定的計畫」的過程。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『是指「運用人力及其他資源,共同去完成預定的計畫」的過程。』不正確。此描述屬於「執行過程群組」，而非規劃。"
+  },
+  {
+    "title": "30. 「專案管理計畫書」（ Project Management Plan）完成後的工作為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "召開啟動會議（ Kickoff Meeting）。"
+      },
+      {
+        "label": "B",
+        "text": "簽訂合約。"
+      },
+      {
+        "label": "C",
+        "text": "舉行說明簡報。"
+      },
+      {
+        "label": "D",
+        "text": "取得客戶的核可。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "計畫書底定並獲得核可後，通常會執行選項『召開啟動會議(Kickoff Meeting)』來宣告專案正式進入執行階段。"
+  },
+  {
+    "title": "32. 「專案成員所需的專業能力」會出現在「專案管理計畫書」的哪一部份內容中？",
+    "options": [
+      {
+        "label": "A",
+        "text": "人力計畫。"
+      },
+      {
+        "label": "B",
+        "text": "專案組織。"
+      },
+      {
+        "label": "C",
+        "text": "工作分解結構（ Work Breakdown Structure, WBS）。"
+      },
+      {
+        "label": "D",
+        "text": "訓練及發展。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定義所需專業技能與角色配置，是選項『人力計畫。』(或稱資源管理計畫) 的主要內容。"
+  },
+  {
+    "title": "33. 下列有關「工作分解結構」（ Work Breakdown Structure, WBS）的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "WBS 工作分解的原則是以交付標的（ Deliverable）為導向。"
+      },
+      {
+        "label": "B",
+        "text": "WBS 的目標是定義部份專案之範疇。"
+      },
+      {
+        "label": "C",
+        "text": "WBS 能表達出專案各活動間與交付標的之關聯性。"
+      },
+      {
+        "label": "D",
+        "text": "WBS 的第一層通常是工作說明書（ Statement of Work, SOW）中專案主要任務的框架。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "選項『WBS的第一層通常是工作說明書(Statement of Work, SOW)中專案主要任務的框架。』不正確。WBS 第一層通常直接是「專案名稱」或是階段/主要交付物，非 SOW 框架。"
+  },
+  {
+    "title": "34. 在「專案管理計畫書」（ Project Management Plan）的哪一部份會出現「交付標的」（ Deliverables）的定義？",
+    "options": [
+      {
+        "label": "A",
+        "text": "工作說明書（ Statement of Work, SOW）。"
+      },
+      {
+        "label": "B",
+        "text": "預算規劃。"
+      },
+      {
+        "label": "C",
+        "text": "專案組織。"
+      },
+      {
+        "label": "D",
+        "text": "工作分解結構（ Work Breakdown Structure, WBS）。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "在專案管理計畫書中，交付標的的層次定義被具體表現在選項『工作分解結構(Work Breakdown Structure, WBS)。』之中。"
+  },
+  {
+    "title": "35. 下列有關「工作分解結構」（ Work Breakdown Structure, WBS）的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活動清單即為 WBS。"
+      },
+      {
+        "label": "B",
+        "text": "WBS 是重要的溝通工具。"
+      },
+      {
+        "label": "C",
+        "text": "WBS 最底層是工作包（ Work Package）。"
+      },
+      {
+        "label": "D",
+        "text": "可據以制定時程規劃。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "選項『活動清單即為WBS。』不正確。WBS 是以交付標的為導向，而活動清單則是為產出這些標的所需執行的具體動作清單，兩者不同。"
+  },
+  {
+    "title": "37. 下列何者是「專案資源管理」在規劃階段的過程？",
+    "options": [
+      {
+        "label": "A",
+        "text": "規劃資源管理（ Develop Human Resource Management）。"
+      },
+      {
+        "label": "B",
+        "text": "獲得專案團隊（ Acquire Project Team）。"
+      },
+      {
+        "label": "C",
+        "text": "發展專案團隊（ Develop Project Team）。"
+      },
+      {
+        "label": "D",
+        "text": "管理專案團隊（ Manage Project Team）。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "B、C、D 皆屬於執行過程群組。只有選項『規劃資源管理(Develop Human Resource Management)』是規劃階段的過程。"
+  },
+  {
+    "title": "38. 建立「工作分解結構」（ Work Breakdown Structure, WBS）時，使用的『工具及技術』為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專家判斷（ Expert Judgment）。"
+      },
+      {
+        "label": "B",
+        "text": "訪談（ Interview）。"
+      },
+      {
+        "label": "C",
+        "text": "產品分析（ Product Analysis）。"
+      },
+      {
+        "label": "D",
+        "text": "分解術（ Decomposition）。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "建立 WBS 時最核心的工具與技術即為選項『分解術(Decomposition)。』，將交付物與專案工作分割為可管理的組件。"
+  },
+  {
+    "title": "39. 下列有關「利害關係人」（ Stakeholder）的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案管理團隊必須辨識利害關係人。"
+      },
+      {
+        "label": "B",
+        "text": "辨識利害關係人是一次性的工作，只需在專案起始過程執行即可。"
+      },
+      {
+        "label": "C",
+        "text": "專案管理團隊需要管理利害關係人的期望。"
+      },
+      {
+        "label": "D",
+        "text": "利害關係人對專案的影響可能是正面也可能是負面的。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "選項『辨識利害關係人是一次性的工作,只需在專案起始過程執行即可。』不正確。隨著專案演進，會有新的利害關係人加入或退出，這是一個需要持續進行的迭代過程。"
+  },
+  {
+    "title": "40. 下列何者不是「定義範疇」時，應參考的資料？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案章程。"
+      },
+      {
+        "label": "B",
+        "text": "需求文件。"
+      },
+      {
+        "label": "C",
+        "text": "組織過程資產。"
+      },
+      {
+        "label": "D",
+        "text": "企業環境因素。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "在早期的某些知識體系中，需求文件是蒐集需求過程的產出，並作為定義範疇的參考。不過若嚴格比對，定義範疇的主要輸入必定包含章程、OPA與EEF。若以此題庫邏輯排除，應視上下文而定。"
+  },
+  {
+    "title": "42. 下列何者是專案「時程規劃」的過程？",
+    "options": [
+      {
+        "label": "A",
+        "text": "定義範疇。"
+      },
+      {
+        "label": "B",
+        "text": "建立工作分解結構。"
+      },
+      {
+        "label": "C",
+        "text": "定義活動。"
+      },
+      {
+        "label": "D",
+        "text": "估算成本。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『定義活動。』是將 WBS 下方的工作包進一步拆解為活動，是時程規劃領域的第一個重要過程。"
+  },
+  {
+    "title": "43. 當新產品開發專案面臨時間不足情況時，專案經理協調研發部門派人支援，屬於那一種方法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "資源撫平（ Resource Leveling）。"
+      },
+      {
+        "label": "B",
+        "text": "趕工縮程法（ Crashing）。"
+      },
+      {
+        "label": "C",
+        "text": "協商（ Negotiation）。"
+      },
+      {
+        "label": "D",
+        "text": "資源分派（ Resource Allocation）。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "透過增加資源（如派人支援）來縮短專案時程的技術，屬於選項『趕工缩程法(Crashing)』的應用。"
+  },
+  {
+    "title": "49. 下列何者不是專案「定義活動」過程的產出？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活動清單。"
+      },
+      {
+        "label": "B",
+        "text": "活動屬性。"
+      },
+      {
+        "label": "C",
+        "text": "里程碑清單。"
+      },
+      {
+        "label": "D",
+        "text": "專案時程網圖。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『專案時程網圖。』是後續「排序活動」(Sequence Activities) 過程的產出，並非定義活動的產出。"
+  },
+  {
+    "title": "52. 某專案團員向你抱怨「我無法先進行活動 B 的工作，除非 A 的工作先完成」，活動 A 及活動 B 屬於那一種關係？",
+    "options": [
+      {
+        "label": "A",
+        "text": "刻意依存關係（ Discretionary Dependency）。"
+      },
+      {
+        "label": "B",
+        "text": "強制依存關係（ Mandatory Dependency）。"
+      },
+      {
+        "label": "C",
+        "text": "外部依存關係（ External Dependency）。"
+      },
+      {
+        "label": "D",
+        "text": "屬意依存關係（ Preferential Dependency）。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "此種受限於工作本質或物理限制而無法跳躍的順序，屬於選項『強制依存關係(Mandatory Dependency)』，又稱硬邏輯(Hard Logic)。"
+  },
+  {
+    "title": "56. 下列何者是指「在所有已經投資於某專案的成本當中，即使抽手也無法回收的部分」？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不會重複發生的成本（ Nonrecurring Cost）。"
+      },
+      {
+        "label": "B",
+        "text": "變動成本（ Variable Cost）。"
+      },
+      {
+        "label": "C",
+        "text": "沉澱成本（ Sunk Cost）。"
+      },
+      {
+        "label": "D",
+        "text": "機會成本（ Opportunity Cost）。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "已經發生且無法收回的歷史投資，在管理經濟學與專案決策中稱為選項『沉澱成本 (Sunk Cost)』，在後續決策時不應列入考量。"
+  },
+  {
+    "title": "57. 當專案需執行「緊急採購」時，應採取下列哪一方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "公開招標。"
+      },
+      {
+        "label": "B",
+        "text": "選擇性招標。"
+      },
+      {
+        "label": "C",
+        "text": "限制性招標。"
+      },
+      {
+        "label": "D",
+        "text": "小額採購。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "在緊急情況下，為了時效性無法執行冗長的公開程序，通常依法規或採購程序採用選項『限制性招標。』指定少數或單一廠商。"
+  },
+  {
+    "title": "58. 下列何者是賣方承受風險最高的合約類型？",
+    "options": [
+      {
+        "label": "A",
+        "text": "固定價款（ Fixed Price）合約。"
+      },
+      {
+        "label": "B",
+        "text": "成本加固定服務費（ Cost Plus Fixed Fee）合約。"
+      },
+      {
+        "label": "C",
+        "text": "成本加獎勵金（ Cost Plus Incentive Fee）合約。"
+      },
+      {
+        "label": "D",
+        "text": "工料計價（ Time and Material）合約。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "在選項『固定價款(Fixed Price)合約。』中，賣方必須承擔所有的成本超支風險，若實際花費大於合約價，賣方將直接面臨虧損。"
+  },
+  {
+    "title": "60. 下列敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "成本估算被用來發展預算，並成為專案績效評估的基準。"
+      },
+      {
+        "label": "B",
+        "text": "成本估算與實際的花費狀況做比較，可作為專案績效衡量的重要指標。"
+      },
+      {
+        "label": "C",
+        "text": "面對大型的專案，可以直接對活動進行成本估算。"
+      },
+      {
+        "label": "D",
+        "text": "低價搶標是具有高風險且為不道德的行為。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『面對大型的專案,可以直接對活動進行成本估算。』不正確。大型專案過於龐雜，必須先由上而下建立 WBS 拆解至工作包，再進行估算，無法直接跳過架構。"
+  },
+  {
+    "title": "61. 成本依「型態」區分，可以分為：",
+    "options": [
+      {
+        "label": "A",
+        "text": "變動成本與固定成本。"
+      },
+      {
+        "label": "B",
+        "text": "直接成本與間接成本。"
+      },
+      {
+        "label": "C",
+        "text": "發展成本、執行作業成本與維護成本。"
+      },
+      {
+        "label": "D",
+        "text": "會重複發生的成本（ Recurring）與不會重複發生的成本（ Nonrecurring）。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在經濟與成本管理領域，依據成本的行為與型態(Behavior/Nature)變動性，可分為選項『變動成本與固定成本。』。"
+  },
+  {
+    "title": "64. 下列有關「專案成本」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "為應對成本的不確定性，成本估算時可包含應變預備金（ Contingency Reserve）。"
+      },
+      {
+        "label": "B",
+        "text": "應變預備金（ Contingency Reserve）是專案成本基準的一部分。"
+      },
+      {
+        "label": "C",
+        "text": "管理預備金（ Management Reserve）不含在專案總預算中。"
+      },
+      {
+        "label": "D",
+        "text": "管理預備金（ Management Reserve）不是專案成本基準的一部分。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『管理預備金(Management Reserve)不含在專案總預算中。』不正確。專案總預算 (Total Budget) ＝ 成本基準 (Cost Baseline) ＋ 管理預備金 (Management Reserve)。"
+  },
+  {
+    "title": "65. 下列有關成本估算時「專家判斷」（ Expert Judgment）法的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "是由專家根據其企業經驗，提供合理的估算。"
+      },
+      {
+        "label": "B",
+        "text": "它是一種直覺的估算方式。"
+      },
+      {
+        "label": "C",
+        "text": "此法適用於估算精度要求不高的情況。"
+      },
+      {
+        "label": "D",
+        "text": "德爾菲法（ Delphi Method）不是專家判斷法。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『德爾菲法(Delphi Method)不是專家判斷法。』不正確。德爾菲法旨在透過匿名問卷收集專家共識，是標準且嚴謹的專家判斷法之一。"
+  },
+  {
+    "title": "66. 在進行成本估算時，「成本工程估算法」（ Cost Engineering）的作法是：",
+    "options": [
+      {
+        "label": "A",
+        "text": "直覺估算的方式。"
+      },
+      {
+        "label": "B",
+        "text": "參考過去相似的案件所作的成本估算的方法。"
+      },
+      {
+        "label": "C",
+        "text": "源自於實證或數理關係的估算方法。"
+      },
+      {
+        "label": "D",
+        "text": "在工作包或任務層級的個別成本種類的細部成本分析的方法。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "成本工程估算法講求精確，作法等同於選項『在工作包或任務層級的個別成本種類的細部成本分析的方法。』(即由下而上的詳盡估算)。"
+  },
+  {
+    "title": "67. 下列何者是專案「採購管理」（ Procurement Management）在規劃階段時的過程？",
+    "options": [
+      {
+        "label": "A",
+        "text": "規劃採購管理（ Plan Procurement Management）。"
+      },
+      {
+        "label": "B",
+        "text": "執行採購（ Conduct Procurements）。"
+      },
+      {
+        "label": "C",
+        "text": "管理採購（ Administer Procurements）。"
+      },
+      {
+        "label": "D",
+        "text": "結束採購（ Close Procurements）。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "依據過程群組分類，選項『規劃採購管理(Plan Procurement Management)』屬於規劃階段，其餘分屬執行與結束階段。"
+  },
+  {
+    "title": "68. 下列有關「專案成本規劃」之敘述，何者正確？",
+    "noShuffle": true,
+    "options": [
+      {
+        "label": "A",
+        "text": "專案在執行中受限於真實的資源、預算成本、專案複雜度以及其他不確定因素等影響，經常會有無法如期、如質、如預算完成的狀況發生。"
+      },
+      {
+        "label": "B",
+        "text": "成本估算與工作分解結構無關。"
+      },
+      {
+        "label": "C",
+        "text": "專案成本的估算不需參考工作包。"
+      },
+      {
+        "label": "D",
+        "text": "以上皆是。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "選項『專案在執行中受限於真實的資源...經常會有無法如期、如質、如預算完成的狀況發生。』為正確實務描述。B、C皆錯，估算高度依賴 WBS 與工作包。"
+  },
+  {
+    "title": "69. 下列有關「專案成本」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「管制帳戶」是加總「工作包」及「計畫包」的預算需求而得的。"
+      },
+      {
+        "label": "B",
+        "text": "「績效評量基準」是加總「管制帳戶」及「應變預備金」而得的。"
+      },
+      {
+        "label": "C",
+        "text": "「總分配預算」是加總「應變預備金」及「管理預備金」而得的。"
+      },
+      {
+        "label": "D",
+        "text": "「專案價款」是加總「總分配預算」及「利潤」而得的。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『「總分配預算」是加總「應變預備金」及「管理預備金」而得的。』定義錯誤。總分配預算不等於預備金的加總，且管理預備金通常獨立於績效基準之外。"
+  },
+  {
+    "title": "70. 下列何者不是「專案成本規劃」的過程？",
+    "options": [
+      {
+        "label": "A",
+        "text": "規劃成本管理。"
+      },
+      {
+        "label": "B",
+        "text": "估算成本。"
+      },
+      {
+        "label": "C",
+        "text": "決定預算。"
+      },
+      {
+        "label": "D",
+        "text": "控制成本。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『控制成本。』屬於「監控過程群組」，而非規劃過程群組。"
+  },
+  {
+    "title": "71. 針對「影響力大但重要性低」的利害關係人，下列何者是最佳的管理策略？",
+    "options": [
+      {
+        "label": "A",
+        "text": "請他們參與專案的決策制定。"
+      },
+      {
+        "label": "B",
+        "text": "請他們參與專案的執行。"
+      },
+      {
+        "label": "C",
+        "text": "時時向他們請益及報告專案現況。"
+      },
+      {
+        "label": "D",
+        "text": "只需告知他們專案的狀況。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "在權力/利益方格(Power/Interest Grid)中，影響力大(權力高)但重要性低(利益低)的群體，其策略應為「令其滿意 (Keep Satisfied)」。選項『時時向他們請益及報告專案現況。』最符合維持良好關係與滿意度的意旨。"
+  },
+  {
+    "title": "72. 下列何者無法提高會議的效率？",
+    "options": [
+      {
+        "label": "A",
+        "text": "提示會議議程及目標。"
+      },
+      {
+        "label": "B",
+        "text": "適時進行討論摘要。"
+      },
+      {
+        "label": "C",
+        "text": "阻止新的意見及提議。"
+      },
+      {
+        "label": "D",
+        "text": "重覆確認含糊不清的意見。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『阻止新的意見及提議。』會抹殺溝通的開放性並導致風險隱匿，並非提高決策品質與專案效率的正確手段。"
+  },
+  {
+    "title": "73. 專案的品質保證工作，通常由誰來執行？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案品質保證部門。"
+      },
+      {
+        "label": "B",
+        "text": "專案團隊成員。"
+      },
+      {
+        "label": "C",
+        "text": "高階管理層。"
+      },
+      {
+        "label": "D",
+        "text": "專案發起人。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "品質保證 (QA) 注重的是流程合規性與持續改善，為確保客觀與專業，通常由組織層級的選項『專案品質保證部門。』來獨立執行。"
+  },
+  {
+    "title": "74. 下列何項因素對專案經理進行「溝通」時的影響最大？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案經理在組織中的層級。"
+      },
+      {
+        "label": "B",
+        "text": "專案經理與利害關係人間的互動關係。"
+      },
+      {
+        "label": "C",
+        "text": "專案經理的年齡和薪資。"
+      },
+      {
+        "label": "D",
+        "text": "專案規模大小。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "專案環境具高度動態，選項『專案經理與利害關係人間的互動關係。』直接決定了資訊流動的意願與透明度，是溝通有效性的最大變數。"
+  },
+  {
+    "title": "75. 「發展專案團隊」（ Develop Project Team）過程是屬於下列哪一「知識領域」（ Knowledge Area）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "採購管理（ Procurement Management）。"
+      },
+      {
+        "label": "B",
+        "text": "溝通管理（ Communication Management）。"
+      },
+      {
+        "label": "C",
+        "text": "人力資源管理（ Human Resource Management）。"
+      },
+      {
+        "label": "D",
+        "text": "利害關係人管理（ Stakeholder Management）。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "在 PMBOK 中，獲取、發展及管理團隊的過程，均隸屬於選項『人力資源管理(Human Resource Management)』(或稱資源管理)。"
+  },
+  {
+    "title": "76. 「品質稽核」（ Quality Audits）是下列哪一個品質管理過程所使用的技術？",
+    "options": [
+      {
+        "label": "A",
+        "text": "品質保證（ Quality Assurance）。"
+      },
+      {
+        "label": "B",
+        "text": "品質管制（ Quality Control）。"
+      },
+      {
+        "label": "C",
+        "text": "品質規劃（ Quality Planning）。"
+      },
+      {
+        "label": "D",
+        "text": "品質檢查（ Quality Inspection）。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "稽核是對過程與系統的結構化審查，屬於選項『品質保證(Quality Assurance)』的核心工具，旨在確認是否遵循既定的政策與程序。"
+  },
+  {
+    "title": "77. 對專案相關的重要議題及新系統發展進行正式查核，稱為：",
+    "options": [
+      {
+        "label": "A",
+        "text": "技術成效衡量（ Technical Performance Measurement）。"
+      },
+      {
+        "label": "B",
+        "text": "專案審查（ Project Review）。"
+      },
+      {
+        "label": "C",
+        "text": "專案稽核（ Project Audit）。"
+      },
+      {
+        "label": "D",
+        "text": "專案監視（ Project Monitoring）。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "對新系統開發與重要議題的正式檢驗與檢討會議，通常定義為選項『專案審查(Project Review)』。"
+  },
+  {
+    "title": "78. 下列何者不是專案「執行過程群組」的過程？",
+    "options": [
+      {
+        "label": "A",
+        "text": "指導與管理專案執行（ Direct and Manage Project Execution）。"
+      },
+      {
+        "label": "B",
+        "text": "獲得專案團隊（ Acquire Project Team）。"
+      },
+      {
+        "label": "C",
+        "text": "執行品質管制（ Perform Quality Control）。"
+      },
+      {
+        "label": "D",
+        "text": "執行品質保證（ Perform Quality Assurance）。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『執行品質管制(Perform Quality Control).』屬於監控過程群組，專注於檢查具體產出是否符合品質要求，而非執行。"
+  },
+  {
+    "title": "82. 下列哪一「品管工具」能用來監控製程，以決定製程是否處於穩態？",
+    "options": [
+      {
+        "label": "A",
+        "text": "因果圖（ Cause and Effect Diagram）。"
+      },
+      {
+        "label": "B",
+        "text": "管制圖（ Control Chart）。"
+      },
+      {
+        "label": "C",
+        "text": "柏拉圖（ Pareto Diagram）。"
+      },
+      {
+        "label": "D",
+        "text": "散佈圖（ Scatter Diagram）。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "選項『管制圖(Control Chart).』具有上下管制界限，是唯一用於判斷流程行為是否穩定及可預測的品管工具。"
+  },
+  {
+    "title": "84. 下列有關「直方圖」（ Histogram）的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直方圖是顯示變數分配的直條圖。"
+      },
+      {
+        "label": "B",
+        "text": "它的橫軸代表問題的屬性。"
+      },
+      {
+        "label": "C",
+        "text": "它的縱軸代表問題出現的次數。"
+      },
+      {
+        "label": "D",
+        "text": "它是從柏拉圖（ Pareto Diagram）演變而來的。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "選項『它是從柏拉圖(Pareto Diagram)演變而來的。』邏輯顛倒。柏拉圖是直方圖的一種特殊形式（依頻率遞減排列），並非直方圖由其演變而來。"
+  },
+  {
+    "title": "85. 下列何者不是「成效報告」的工具及技術？",
+    "options": [
+      {
+        "label": "A",
+        "text": "利害關係人分析（ Stakeholder Analysis）。"
+      },
+      {
+        "label": "B",
+        "text": "差異分析（ Variance Analysis）。"
+      },
+      {
+        "label": "C",
+        "text": "成效審查（ Performance Reviews）會。"
+      },
+      {
+        "label": "D",
+        "text": "趨勢分析（ Trend Analysis）。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "選項『利害關係人分析(Stakeholder Analysis)。』是在起始階段用以辨識利害關係人權益與力量的工具，與量化成效報告無關。"
+  },
+  {
+    "title": "86. 下列何者是「衡量績效指標」的輸入，以便用來進行專案進度追蹤，與規劃的進度比較，找出各項活動與進度間所產生的差異，來處理與決斷？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案管理計畫書。"
+      },
+      {
+        "label": "B",
+        "text": "專案時程規劃。"
+      },
+      {
+        "label": "C",
+        "text": "實際工作進度。"
+      },
+      {
+        "label": "D",
+        "text": "專案品質規劃。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "進行差異分析必須有雙方的基底：計畫基準與真實數據。選項『實際工作進度。』(工作績效資訊) 是反映真實執行的絕對依據。"
+  },
+  {
+    "title": "87. 下列有關「專案監控」的敘述，何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案管理計畫是大家的承諾，不可修改，應該朝既定的性能、成本、以及時程等目標邁進。"
+      },
+      {
+        "label": "B",
+        "text": "專案監控在致力於有規範地工作、盡可能減少計畫之變更、並且導引專案朝既定的性能、成本、及時程等目標邁進。"
+      },
+      {
+        "label": "C",
+        "text": "專案實際執行時由於環境的變化、認知的差異、以及能力的不足等，會造成實際執行狀況與計畫間的偏離。"
+      },
+      {
+        "label": "D",
+        "text": "要保證專案遵循著計畫來執行，不斷確認計畫的可執行性，就得用到許多專案監控的手段。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "選項『專案管理計畫是大家的承諾,不可修改...』為不實陳述。計畫應具備基準穩定性，但在環境劇變時，可透過正式的「整合變更控制(ICC)」程序進行必要修改，並非絕對不可變更。"
+  },
+  {
+    "title": "89. 下列何者不是專案「監控過程群組」的過程？",
+    "options": [
+      {
+        "label": "A",
+        "text": "監控專案工作。"
+      },
+      {
+        "label": "B",
+        "text": "執行品質保證。"
+      },
+      {
+        "label": "C",
+        "text": "控制範疇。"
+      },
+      {
+        "label": "D",
+        "text": "驗證範疇。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "選項『執行品質保證。』(QA) 隸屬於「執行過程群組」，而品質管制 (QC) 才隸屬於「監控過程群組」。"
+  },
+  {
+    "title": "90. 下列何者無法用來衡量專案的進度，協助進行專案績效評量？",
+    "options": [
+      {
+        "label": "A",
+        "text": "里程碑。"
+      },
+      {
+        "label": "B",
+        "text": "資源的利用。"
+      },
+      {
+        "label": "C",
+        "text": "內部專家。"
+      },
+      {
+        "label": "D",
+        "text": "設計文件系統現況報告。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "績效評量需要客觀基準或實獲數據(如進度報告、里程碑達成率)。選項『內部專家。』雖然可以協助判斷，但本身不是一項可直接量化的「評量基準」。"
+  },
+  {
+    "title": "93. 「結案報告」的內容不包括下列何者？",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案團隊成員績效表現。"
+      },
+      {
+        "label": "B",
+        "text": "專案主要完成事項。"
+      },
+      {
+        "label": "C",
+        "text": "專案管理計畫書。"
+      },
+      {
+        "label": "D",
+        "text": "經驗學習。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "選項『專案管理計畫書。』是專案早期的產出，作為執行的依據；雖然會連同專案歸檔，但本身並非「結案報告」內文撰寫的項目。"
+  },
+  {
+    "title": "94. 甲公司高層因發展策略改變，決定中止 A 專案及該專案中委外給乙公司的工作。根據此狀況，下列敘述何者不正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "甲公司應依合約賠償乙公司已發生的損失。"
+      },
+      {
+        "label": "B",
+        "text": "此為「政策性中止」的狀況。"
+      },
+      {
+        "label": "C",
+        "text": "此為「缺失性中止」的狀況。"
+      },
+      {
+        "label": "D",
+        "text": "乙公司不需承擔損失。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "因高層策略改變而非因承包商履約不力所造成的終止，屬於「政策性/便利性中止」(Termination for Convenience)。選項『此為「缺失性中止」的狀況。』完全錯誤，缺失性 (Default) 意指乙方違約。"
+  },
+  {
+    "title": "95. 在組織內部，「行銷企劃書」通常歸類為哪一種文件？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基本文件。"
+      },
+      {
+        "label": "B",
+        "text": "行政文件。"
+      },
+      {
+        "label": "C",
+        "text": "專案文件。"
+      },
+      {
+        "label": "D",
+        "text": "標準樣本文 件。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "一份具有明確目的與時限的企劃，其性質與針對性使其通常作為選項『專案文件。』進行管理與歸檔，作為專案啟動或商業論證的依據。"
+  },
+  {
+    "title": "96. 下列何者是知識管理的最佳實踐？",
+    "options": [
+      {
+        "label": "A",
+        "text": "建立專案管理辦公室（ PMO）。"
+      },
+      {
+        "label": "B",
+        "text": "建立資訊檔案部門。"
+      },
+      {
+        "label": "C",
+        "text": "建立專案團隊。"
+      },
+      {
+        "label": "D",
+        "text": "聘任檔案管理人員。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "專案管理辦公室 (PMO) 肩負統整組織過程資產、過去專案經驗學習及制定標準程序的任務，選項『建立專案管理辦公室(PMO)。』是確保專案知識得以結構化留存的最佳機制。"
+  },
+  {
+    "title": "97. 在「專案終結」的類型中，下列何者最複雜？",
+    "noShuffle": true,
+    "options": [
+      {
+        "label": "A",
+        "text": "專案取消（ Cancellation）。"
+      },
+      {
+        "label": "B",
+        "text": "專案中止（ Termination）。"
+      },
+      {
+        "label": "C",
+        "text": "專案結束（ Closure）。"
+      },
+      {
+        "label": "D",
+        "text": "三者一樣複雜。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正常結案(Closure)照既定程序走；專案取消(Cancellation)多發生在早期，牽涉資產較少。而中途發生的選項『專案中止 (Termination)。』則涉及大量未結清合約、已發生費用的清算以及可能引發的違約訴訟，處理程序最為棘手與複雜。"
+  },
+  {
+    "title": "98. 下列哪一項不是「敏捷原則」?",
+    "options": [
+      {
+        "label": "A",
+        "text": "專案靠積極的個人來完成，給予他們所需要的環境與支援，並相信他們可以完成工作"
+      },
+      {
+        "label": "B",
+        "text": "經常交付可用的成果，頻率可從數周到數個月，以較長的時間間隔為佳"
+      },
+      {
+        "label": "C",
+        "text": "敏捷流程提倡穩定持續的開發，發起人、開發者及用戶都應該能不斷地維持穩定的步調"
+      },
+      {
+        "label": "D",
+        "text": "精簡－精髓是要盡最大的可能，排除不需要做的工作"
+      }
+    ],
+    "answer": "B",
+    "explanation": "選項『經常交付可用的成果,頻率可從數周到數個月,以較長的時間間隔為佳』不正確，敏捷原則傾向以「較短」的時間間隔為佳。"
+  },
+  {
+    "title": "99. 根據「敏捷原則」，下列哪一項是進度的主要量測標準?",
+    "options": [
+      {
+        "label": "A",
+        "text": "大量的文件"
+      },
+      {
+        "label": "B",
+        "text": "可用的軟體"
+      },
+      {
+        "label": "C",
+        "text": "好的架構"
+      },
+      {
+        "label": "D",
+        "text": "充分授權的工作環境"
+      }
+    ],
+    "answer": "B",
+    "explanation": "依據敏捷宣言的原則，選項『可用的軟體』是衡量進度的首要標準。"
+  }
+]
